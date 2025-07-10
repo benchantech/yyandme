@@ -2,7 +2,7 @@ title: YY and Me Podcast
 description: A podcast by Ben Chan exploring legacy, myth, violin, and AI narration.
 baseurl: ""
 url: "https://yyand.me"
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
