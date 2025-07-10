@@ -16,5 +16,4 @@ It’s a ritual trace—a way to signal what resonated so I can listen, adjust, 
 You’re early, and that means your echo carries weight. I’ll read everything.  
 Thank you for listening.
 
-<iframe src="https://docs.google.com/forms/d/e/1WvxxLCsvsaWhLTlD105obVrW2f_wZprDK137zX17pdA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScSZjeaJmVyrgRreYF6uHTjyL43JfKe9ABx85Kx3UP0_sjjTg/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
