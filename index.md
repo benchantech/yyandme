@@ -1,6 +1,6 @@
 ---
 layout: home
-title: YY and Me Podcast
+title: A Canon of Growing Echoes
 ---
 
 <div style="text-align: center; padding: 2rem;">
