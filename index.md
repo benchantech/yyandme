@@ -4,8 +4,8 @@ title: A Canon of Growing Echoes
 ---
 
 <div style="text-align: center; padding: 2rem;">
-  <h2>Start Here</h2>
-  <p>🎧 <a href="https://yourpodcast.transistor.fm/episodes/the-first-echo">The First Echo</a> is the first canonical entry. It sets the frame for everything that follows.</p>
+  <h2>Looking for the YY and Me podcast?  Start here</h2>
+  <p>🎧 <a href="https://yyandme.transistor.fm/episodes/the-first-echo">The First Echo</a> is the first canonical entry. It sets the frame for everything that follows.</p>
   <picture>
     <!-- Mobile-optimized version for narrow screens -->
     <source srcset="/assets/under_construction_mobile_optimized.png" media="(max-width: 600px)">
