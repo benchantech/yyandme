@@ -50,15 +50,15 @@ title: A Canon of Growing Echoes
 <div class="podcast-buttons-container">
   <div class="podcast-buttons">
     <a href="https://podcasts.apple.com/podcast/yy-and-me/id1826275180" target="_blank" rel="noopener" class="podcast-link">
-      <img src="yy-and-me-apple-podcast-button.webp" alt="Listen on Apple Podcasts">
+      <img src="/assets/yy-and-me-apple-podcast-button.webp" alt="Listen on Apple Podcasts">
     </a>
     <a href="https://open.spotify.com/show/0H5pDGj5MY5D2tql9RIzFP" target="_blank" rel="noopener" class="podcast-link">
-      <img src="yy-and-me-spotify-button.webp" alt="Listen on Spotify">
+      <img src="/assets/yy-and-me-spotify-button.webp" alt="Listen on Spotify">
     </a>
   </div>
   <a href="https://pod.link/1826275180" target="_blank" rel="noopener" class="more-options">More listening options →</a>
 </div>
-
+  <br /><br />
   <picture>
     <!-- Mobile-optimized version for narrow screens -->
     <source srcset="/assets/under_construction_mobile_optimized.png" media="(max-width: 600px)">
