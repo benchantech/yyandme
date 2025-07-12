@@ -52,7 +52,7 @@ title: A Canon of Growing Echoes
     <a href="https://podcasts.apple.com/podcast/yy-and-me/id1826275180" target="_blank" rel="noopener" class="podcast-link">
       <img src="/assets/yy-and-me-apple-podcast-button.webp" alt="Listen on Apple Podcasts">
     </a>
-    <a href="https://open.spotify.com/show/0H5pDGj5MY5D2tql9RIzFP" target="_blank" rel="noopener" class="podcast-link">
+    <a href="https://open.spotify.com/show/7snHYZsCpO1oNidk2RZh02" target="_blank" rel="noopener" class="podcast-link">
       <img src="/assets/yy-and-me-spotify-button.webp" alt="Listen on Spotify">
     </a>
   </div>
