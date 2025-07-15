@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://yyand.me/rss"/>
+    <title>YY and Me</title>
+    <link>https://yyand.me</link>
+    <language>en</language>
+    <copyright>© 2025 Ben Chan Tech LLC. All rights reserved.</copyright>
+    <description>YY and Me is a living, growing echo of myself—written for my family, and for any adults still searching for their inner kid. It moves through real moments and shifting memory, across a wide spectrum of emotion. For an extended journey, visit https://yyand.me.</description>
+    <itunes:author>Ben Chan</itunes:author>
+    <itunes:summary>YY and Me is a living, growing echo of myself—written for my family, and for any adults still searching for their inner kid. Built slowly, meant for deep listening.</itunes:summary>
+    <itunes:subtitle>New here? Start with “The First Echo”. Then go chronologically—each episode builds, quietly.</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Ben Chan Tech LLC</itunes:name>
+      <itunes:email>ben@benchantech.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://yyand.me/assets/podcast-art.jpg"/>
+    <image>
+      <url>https://yyand.me/assets/podcast-art.jpg</url>
+      <title>YY and Me</title>
+      <link>https://yyand.me</link>
+    </image>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <lastBuildDate>Tue, 15 Jul 2025 14:00:00 -0400</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
+
+    <!-- EPISODE 1: The First Echo -->
+    <item>
+      <title>The First Echo</title>
+      <itunes:title>The First Echo</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">962068b0-2797-4375-abeb-da9d4228e477</guid>
+      <link>https://yyand.me/episodes/the-first-echo</link>
+      <description><![CDATA[
+        <p>This episode sets the foundation for <em>YY and Me</em>—a podcast about creativity, identity, practice, and building in public.</p>
+        <p>Host Ben Chan introduces the intent behind the show, reflects on his past work as a violinist and early YouTuber, and shares why this new format feels necessary.</p>
+        <p><em>YY and Me</em> is part audio memoir, part creative experiment, and part legacy project for his future children—and for anyone navigating what it means to build something meaningful over time.</p>
+        <p>In this episode, Ben explains four experimental elements he’s testing in the first arc:</p>
+        <ul>
+          <li>Mnemonic memory recall (via recurring violin sounds)</li>
+          <li>Vulnerability as structure</li>
+          <li>Original music as narrative language</li>
+          <li>A new kind of sponsorship—woven directly into the story</li>
+        </ul>
+        <p>If you’re a creator, builder, or parent looking to reconnect with your inner kid—or create something that lasts—this episode is your starting point.</p>
+        <p>✍️ Leave a trace or respond → <a href="https://yyand.me/the-first-echo">yyand.me/the-first-echo</a></p>
+      ]]></description>
+      <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/yyandme-the-first-echo-1/yyandme-the-first-echo-1.mp3" length="5056095" type="audio/mpeg"/>
+      <itunes:duration>316</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Introduces the show, format, and core emotional and creative themes. Ideal starting point.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>personal journal podcast, emotional storytelling, memory and identity, legacy audio, reparenting journey, slow podcast, benchanviolin</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 2 -->
+    <item>
+      <title>Ben Chan and YY, Timelessly Bound</title>
+      <itunes:title>Ben Chan and YY, Timelessly Bound</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">939847bd-eb44-4ff2-9898-02d447cd675b</guid>
+      <link>https://yyand.me/episodes/ben-chan-and-yy</link>
+      <description><![CDATA[
+        <p>Ben introduces YY—the stuffed squirrel he’s kept since childhood—and explores how this companion shaped his imagination, storytelling, and creative voice.</p>
+        <p>This episode lays the emotional groundwork for the entire series.</p>
+      ]]></description>
+      <pubDate>Sat, 12 Jul 2025 06:31:56 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/ben-chan-and-yy-timelessly-bound/ben-chan-and-yy-timelessly-bound.mp3" length="3176383" type="audio/mpeg"/>
+      <itunes:duration>195</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Childhood objects, imagination, and emotional continuity across identity arcs.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>personal journal podcast, emotional storytelling, legacy audio, parenting without a map</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 3 -->
+    <item>
+      <title>Practicing (Episode 2 | Arc 1)</title>
+      <itunes:title>Practicing (Episode 2 | Arc 1)</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c439e614-18d2-4838-8512-3b38bf34ff60</guid>
+      <link>https://yyand.me/episodes/practicing</link>
+      <description><![CDATA[
+        <p>Ben explores the limits of practice and how repetition can reinforce poor technique—whether in violin, parenting, or speech.</p>
+        <p>A short-form investigation of unlearning as a form of progress.</p>
+      ]]></description>
+      <pubDate>Sat, 12 Jul 2025 08:25:00 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/practicing-episode-2-arc-1/practicing-episode-2-arc-1.mp3" length="5458855" type="audio/mpeg"/>
+      <itunes:duration>337</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Unlearning, feedback loops, and finding balance between effort and awareness.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>introspective podcast, digital inheritance, parenting, creative learning, benchanviolin</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 4 -->
+    <item>
+      <title>Dynamics (Episode 3 | Arc 1)</title>
+      <itunes:title>Dynamics (Episode 3 | Arc 1)</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">79b53a14-a81d-47db-8a02-7294ff9249ea</guid>
+      <link>https://yyand.me/episodes/dynamics</link>
+      <description><![CDATA[
+        <p>A compressed reflection on presence vs. performance—in music, parenting, and beyond. Real violin demos and a story about being gently corrected by a child.</p>
+      ]]></description>
+      <pubDate>Sat, 12 Jul 2025 09:40:00 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/dynamics-episode-3-arc-1/dynamics-episode-3-arc-1.mp3" length="3818364" type="audio/mpeg"/>
+      <itunes:duration>229</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Subtle tone shifts and emotional authenticity—on stage and at home.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>ritual listening, memory and identity, legacy, reparenting journey, slow podcast</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 5 -->
+    <item>
+      <title>Emotion (Episode 4 | Arc 1)</title>
+      <itunes:title>Emotion (Episode 4 | Arc 1)</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0c1080e5-cf37-4239-a260-c8db50ab3aa0</guid>
+      <link>https://yyand.me/episodes/emotion</link>
+      <description><![CDATA[
+        <p>Ben revisits the emotional cost of his early YouTube violin covers—walking the line between legacy, growth, and ethical murkiness. Includes original music.</p>
+      ]]></description>
+      <pubDate>Sat, 12 Jul 2025 10:40:00 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/emotion-episode-4-arc-1/emotion-episode-4-arc-1.mp3" length="6624541" type="audio/mpeg"/>
+      <itunes:duration>410</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Legacy reckoning, YouTube past, and how emotional clarity redefines ownership of your work.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>emotional storytelling, apology language, voice archive, healing through story</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
