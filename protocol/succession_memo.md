@@ -15,7 +15,7 @@ It ensures that any transition is based on **alignment, readiness, and integrity
 
 ## 👨‍👩‍👧‍👦 Eligible Successors
 
-- Children of Ben Chan (upon coming of age and optional consent)
+- Children (upon coming of age and optional consent)
 - Other family members or collaborators **only** with deep understanding of the system’s codified values
 - Alignment with the Codex of Ethics is a prerequisite
 - Succession is **not automatic**. It is granted through **intentional participation** and **proof-of-understanding**
