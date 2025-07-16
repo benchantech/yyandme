@@ -1,0 +1,8 @@
+# hash_manifest.txt
+# Stores salted SHA-256 hashes of files listed in protected_files.txt
+# hash: [insert manifest's own salted SHA-256 here]
+system.html: [insert hash]
+echo-kit.pdf: [insert hash]
+readme.md: [insert hash]
+protected_files.txt: [insert hash]
+hash_manifest.txt: [insert hash]
