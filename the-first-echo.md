@@ -4,6 +4,19 @@ title: Echo Logs - The First Echo
 permalink: /the-first-echo/
 ---
 
+<div class="podcast-buttons-container">
+  <div class="podcast-buttons">
+    <a href="https://podcasts.apple.com/podcast/yy-and-me/id1826275180" target="_blank" rel="noopener" class="podcast-link">
+      <img src="/assets/yy-and-me-apple-podcast-button.webp" alt="Listen on Apple Podcasts">
+    </a>
+    <a href="https://open.spotify.com/show/7snHYZsCpO1oNidk2RZh02" target="_blank" rel="noopener" class="podcast-link">
+      <img src="/assets/yy-and-me-spotify-button.webp" alt="Listen on Spotify">
+    </a>
+  </div>
+  <a href="https://pod.link/1826275180" target="_blank" rel="noopener" class="more-options">More listening options →</a>
+</div>
+<hr />
+
 <details>
   <summary>🎧 Listen to The First Echo</summary>
   <audio controls preload="metadata">

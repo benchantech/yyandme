@@ -9,3 +9,43 @@
 
   gtag('config', 'G-5LBTKXJXDX');
 </script>
+
+<style>
+  .podcast-buttons-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+  }
+
+  .podcast-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .podcast-link {
+    display: block;
+    max-width: 200px;
+  }
+
+  .podcast-link img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .more-options {
+    margin-top: 12px;
+    font-size: 0.9em;
+    color: #666;
+    text-decoration: underline;
+  }
+
+  @media (min-width: 600px) {
+    .podcast-buttons {
+      flex-direction: row;
+    }
+  }
+</style>
