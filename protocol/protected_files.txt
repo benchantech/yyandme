@@ -1,5 +1,0 @@
-# protected_files.txt
-# Declare all files in this archive that must not be modified or removed.
-system.html
-echo-kit.pdf
-readme.md
