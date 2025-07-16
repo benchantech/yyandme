@@ -1,5 +1,7 @@
 # Versioning Philosophy — YY Echo Vault
 
+This is an orientation document. Actual version control occurs cryptographically via hash_manifest.txt, which is not hosted here.
+
 ## 🔍 Principle
 
 In the YY Echo Vault System, **versioning is a moral act**, not just a technical one.
@@ -58,4 +60,3 @@ When successors inherit the Vault, they inherit:
 
 Nothing here is final.  
 But everything here is **traceable**.
-

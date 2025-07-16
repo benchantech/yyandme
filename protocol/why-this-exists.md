@@ -6,6 +6,8 @@ It exists because algorithms distort authorship, platforms dilute tone, and scal
 
 It exists because sovereignty requires structure—not just feeling, not just ideas, but rigorously provable memory.
 
+This reflection is offered, not licensed. Forking this tone without understanding breaks its chain.
+
 ---
 
 ## 🧭 What It Protects
