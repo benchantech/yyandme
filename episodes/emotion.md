@@ -13,7 +13,7 @@ In the close of Arc 1, Ben opens up about his early YouTube career — and the b
 🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 <hr />
 <p><strong>Full Transcript:</strong></p>
-isode 4: Emotion</p>
+<p>YY and Me Episode 4: Emotion</p>
 <p>(Opening motif – plucked AE-AE medium, pause, GD-GD-GD-GD…GD! soft cresc to loud, bartok snap.)</p>
 <p>(YY’s voice): “Hi, Ben! Whatcha doin’?”</p>
 <p>[pause]</p>
