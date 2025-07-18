@@ -145,29 +145,5 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!-- EPISODE 5 -->
-    <item>
-      <title>Emotion (Episode 4 | Arc 1)</title>
-      <itunes:title>Emotion (Episode 4 | Arc 1)</itunes:title>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <guid isPermaLink="false">0c1080e5-cf37-4239-a260-c8db50ab3aa0</guid>
-      <link>https://yyand.me/episodes/emotion</link>
-      <description><![CDATA[
-        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
-        <p>Ben revisits the emotional cost of his early YouTube violin covers—walking the line between legacy, growth, and ethical murkiness. Includes original music.</p>
-      ]]></description>
-      <pubDate>Sat, 12 Jul 2025 10:40:00 -0400</pubDate>
-      <author>Ben Chan</author>
-      <enclosure url="https://archive.org/download/emotion-episode-4-arc-1/emotion-episode-4-arc-1.mp3" length="6624541" type="audio/mpeg"/>
-      <itunes:duration>410</itunes:duration>
-      <itunes:summary><![CDATA[
-        <p>Legacy reckoning, YouTube past, and how emotional clarity redefines ownership of your work.</p>
-      ]]></itunes:summary>
-      <itunes:author>Ben Chan</itunes:author>
-      <itunes:keywords>emotional storytelling, apology language, voice archive, healing through story</itunes:keywords>
-      <itunes:explicit>No</itunes:explicit>
-    </item>
-
   </channel>
 </rss>
