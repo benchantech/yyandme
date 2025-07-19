@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dynamics (Arc 1 | Episode 3)
-permalink: /episodes/dynamics/
+title: Emotion (Arc 1 | Episode 4)
+permalink: /episodes/emotion/
 ---
 
 What happens when the story overtakes the storyteller?
