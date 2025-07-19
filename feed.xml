@@ -145,5 +145,29 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
+    <!-- EPISODE 5 -->
+    <item>
+    <title>Emotion (Episode 4 | Arc 1)</title>
+    <itunes:title>Emotion (Episode 4 | Arc 1)</itunes:title>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">d2c9a72e-e041-4e1e-9e04-b7c50c89e4ad</guid>
+    <link>https://yyand.me/episodes/emotion</link>
+    <description><![CDATA[
+	    <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+	    <p>A journal becomes a lifeline. Ben reflects on emotional memory, AI writing, and why practicing voice—on paper or in person—might matter more than perfecting it.</p>
+    ]]></description>
+    <pubDate>Wed, 17 Jul 2025 08:00:00 -0400</pubDate>
+    <author>Ben Chan</author>
+    <enclosure url="https://archive.org/download/emotion-episode-4-arc-1_202507/emotion-episode-4-arc-1.mp3" length="14182593" type="audio/mpeg"/>
+    <itunes:duration>511</itunes:duration>
+    <itunes:summary><![CDATA[
+	    <p>Finding your voice through journal entries, violin, and the uncomfortable lessons of AI.</p>
+    ]]></itunes:summary>
+    <itunes:author>Ben Chan</itunes:author>
+    <itunes:keywords>emotional dynamics, narrative journaling, AI voice, parenting, emotional intelligence, memory and identity</itunes:keywords>
+    <itunes:explicit>No</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
