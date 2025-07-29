@@ -3,6 +3,15 @@ layout: default
 title: Dynamics (Arc 1 | Episode 3)
 permalink: /episodes/dynamics/
 ---
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/05yi4vaGyDv8SWzIdqw1JR?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 What’s the difference between accuracy and presence?
 
