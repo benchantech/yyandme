@@ -4,13 +4,7 @@ title: Echo Logs - The First Echo
 permalink: /the-first-echo/
 ---
 
-<details>
-  <summary>🎧 Listen to The First Echo</summary>
-  <audio controls preload="metadata">
-    <source src="https://archive.org/serve/yyandme-the-first-echo-1/yyandme-the-first-echo-1.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</details>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MdT7W2D9cGjHQO2miVpew?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <details>
   <summary>🎧 Listen to Ben Chan and YY (Arc 1 | Episode 1)</summary>
