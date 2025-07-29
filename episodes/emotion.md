@@ -3,6 +3,15 @@ layout: default
 title: Emotion (Arc 1 | Episode 4)
 permalink: /episodes/emotion/
 ---
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/4Dl38Ijr8vSOREz3m9mkd8?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 What happens when the story overtakes the storyteller?
 
