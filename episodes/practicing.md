@@ -3,6 +3,15 @@ layout: default
 title: Practicing (Arc 1 | Episode 2)
 permalink: /episodes/practicing/
 ---
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/5coHcK5npN68jnMPfVzWXR?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 What if practice doesn’t make perfect — just permanent?
 
