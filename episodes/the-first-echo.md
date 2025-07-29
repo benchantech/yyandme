@@ -3,6 +3,16 @@ layout: default
 title: The First Echo
 permalink: /episodes/the-first-echo/
 ---
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/6MdT7W2D9cGjHQO2miVpew?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 **Welcome to _YY and Me_** — a podcast about identity, imagination, and learning out loud.
 
 This opening episode is both manifesto and experiment. Ben introduces the concept behind *YY and Me*, blending memoir, sound design, and emotional inquiry. You’ll hear why he’s shifting from viral YouTube violinist to sovereign audio creator — and how stuffed animals, language immersion, and vulnerability are central to the structure.
