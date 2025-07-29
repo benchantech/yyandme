@@ -6,7 +6,7 @@ permalink: /episodes/practicing/
 <iframe
   data-testid="embed-iframe"
   class="responsive-iframe"
-  src="https://open.spotify.com/embed/episode/5coHcK5npN68jnMPfVzWXR?utm_source=generator"
+  src="https://open.spotify.com/embed/episode/05yi4vaGyDv8SWzIdqw1JR?utm_source=generator"
   frameborder="0"
   allowfullscreen
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
