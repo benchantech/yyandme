@@ -1,19 +1,103 @@
 ---
-layout: home
-title: A Canon of Growing Echoes
+layout: default
+title: YY and Me Podcast
 ---
 
-<div style="text-align: center; padding: 2rem;">
-  <h2>Looking for the YY and Me podcast?  Start here</h2>
-  <p>🎧 <a href="https://yyand.me/the-first-echo">The First Echo</a> is the first canonical entry. It sets the frame for everything that follows.</p>
-    
-  <picture>
-    <!-- Mobile-optimized version for narrow screens -->
-    <source srcset="/assets/under_construction_mobile_optimized.png" media="(max-width: 600px)">
-    <!-- Desktop version -->
-    <img src="/assets/under_construction_web_optimized.png" alt="Under Construction" style="max-width: 100%; height: auto; border: none;">
-  </picture>
-  <p style="margin-top: 1rem; font-size: 1.1rem; color: #555;">
-    This site is under construction. Check back soon for updates.
-  </p>
+<div class="hero">
+  <h1>A Canon of Growing Echoes</h1>
+  <p>A podcast by Ben Chan exploring and building legacy, myth, violin, and AI - in real-time.</p>
+  <p>Start with <strong><a href="/episodes/the-first-echo/">The First Echo</a></strong> to understand the foundation of everything that follows.</p>
+</div>
+
+<div class="episodes-grid">
+  <div class="episode-card">
+    <div class="episode-number">Episode 0</div>
+    <h3 class="episode-title">The First Echo</h3>
+    <p class="episode-description">Welcome to YY and Me — a podcast about identity, imagination, and learning out loud. This opening episode is both manifesto and experiment.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Foundation</span>
+      <a href="/episodes/the-first-echo/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+
+  <div class="episode-card">
+    <div class="episode-number">Episode 1</div>
+    <h3 class="episode-title">Ben Chan and YY</h3>
+    <p class="episode-description">What if your first storytelling partner was a stuffed squirrel? This episode introduces YY, the thread running through Ben's entire identity arc.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/ben-chan-and-yy/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+
+  <div class="episode-card">
+    <div class="episode-number">Episode 2</div>
+    <h3 class="episode-title">Practicing</h3>
+    <p class="episode-description">What if practice doesn't make perfect — just permanent? Ben explores how repetition can encode emotional rigidity and technical failure.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/practicing/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+
+  <div class="episode-card">
+    <div class="episode-number">Episode 3</div>
+    <h3 class="episode-title">Dynamics</h3>
+    <p class="episode-description">Exploring the tension between control and surrender in music, relationships, and creative expression.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/dynamics/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+
+  <div class="episode-card">
+    <div class="episode-number">Episode 4</div>
+    <h3 class="episode-title">Emotion</h3>
+    <p class="episode-description">A deep dive into emotional storytelling, vulnerability, and how music becomes the language of feeling.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/emotion/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+</div>
+
+<div class="episode-navigation">
+  <h3 class="nav-title">Episode Navigation</h3>
+  <ul class="episode-nav-list">
+    <li class="episode-nav-item">
+      <div class="episode-nav-number">0</div>
+      <div class="episode-nav-content">
+        <div class="episode-nav-title">The First Echo</div>
+        <div class="episode-nav-subtitle">Foundation & Manifesto</div>
+      </div>
+    </li>
+    <li class="episode-nav-item">
+      <div class="episode-nav-number">1</div>
+      <div class="episode-nav-content">
+        <div class="episode-nav-title">Ben Chan and YY</div>
+        <div class="episode-nav-subtitle">Identity & Childhood</div>
+      </div>
+    </li>
+    <li class="episode-nav-item">
+      <div class="episode-nav-number">2</div>
+      <div class="episode-nav-content">
+        <div class="episode-nav-title">Practicing</div>
+        <div class="episode-nav-subtitle">Habits & Unlearning</div>
+      </div>
+    </li>
+    <li class="episode-nav-item">
+      <div class="episode-nav-number">3</div>
+      <div class="episode-nav-content">
+        <div class="episode-nav-title">Dynamics</div>
+        <div class="episode-nav-subtitle">Control & Surrender</div>
+      </div>
+    </li>
+    <li class="episode-nav-item">
+      <div class="episode-nav-number">4</div>
+      <div class="episode-nav-content">
+        <div class="episode-nav-title">Emotion</div>
+        <div class="episode-nav-subtitle">Vulnerability & Music</div>
+      </div>
+    </li>
+  </ul>
 </div>

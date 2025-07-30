@@ -8,3 +8,45 @@ plugins:
   - jekyll-seo-tag
 include:
   - _includes/head-custom.html
+
+# SEO and social media
+author:
+  name: Ben Chan
+  email: ben@yyand.me
+  bio: Violinist, podcaster, and creator exploring identity, creativity, and legacy through storytelling and music.
+
+# Social media links
+social:
+  name: YY and Me Podcast
+  links:
+    - https://podcasts.apple.com/podcast/yy-and-me/id1826275180
+    - https://open.spotify.com/show/7snHYZsCpO1oNidk2RZh02
+    - https://yyand.me
+
+# Podcast metadata
+podcast:
+  title: YY and Me
+  description: A narrative podcast and creative archive by Ben Chan
+  author: Ben Chan
+  publisher: Ben Chan Tech LLC
+  language: en
+  category: Personal Development
+  explicit: false
+  type: episodic
+  image: /assets/yyandme-art-1500x1500.jpg
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Ben Chan"
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "default"
+      author: "Ben Chan"
+      category: "Podcast"
