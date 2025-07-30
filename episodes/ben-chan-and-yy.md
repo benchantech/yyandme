@@ -22,54 +22,7 @@ This episode introduces *YY*, the thread running through Ben's entire identity a
 
 🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
-<div class="episode-navigation">
-  <h3 class="nav-title">Episode Navigation</h3>
-  <ul class="episode-nav-list">
-    <li class="episode-nav-item">
-      <a href="/episodes/the-first-echo/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-        <div class="episode-nav-number">0</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">The First Echo</div>
-          <div class="episode-nav-subtitle">Foundation & Manifesto</div>
-        </div>
-      </a>
-    </li>
-    <li class="episode-nav-item current">
-      <div class="episode-nav-number">1</div>
-      <div class="episode-nav-content">
-        <div class="episode-nav-title">Ben Chan and YY</div>
-        <div class="episode-nav-subtitle">Identity & Childhood (Current)</div>
-      </div>
-    </li>
-    <li class="episode-nav-item">
-      <a href="/episodes/practicing/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-        <div class="episode-nav-number">2</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Practicing</div>
-          <div class="episode-nav-subtitle">Habits & Unlearning</div>
-        </div>
-      </a>
-    </li>
-    <li class="episode-nav-item">
-      <a href="/episodes/dynamics/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-        <div class="episode-nav-number">3</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Dynamics</div>
-          <div class="episode-nav-subtitle">Control & Surrender</div>
-        </div>
-      </a>
-    </li>
-    <li class="episode-nav-item">
-      <a href="/episodes/emotion/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-        <div class="episode-nav-number">4</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Emotion</div>
-          <div class="episode-nav-subtitle">Vulnerability & Music</div>
-        </div>
-      </a>
-    </li>
-  </ul>
-</div>
+{% include episode-navigation.html %}
 
 <hr />
 <p><strong>Full Transcript:</strong></p>
