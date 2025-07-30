@@ -507,7 +507,7 @@ a:hover {
   }
   
   .mobile-nav-overlay {
-    display: block;
+    display: none;
   }
   
   .hero h1 {
