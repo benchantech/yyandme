@@ -6,7 +6,6 @@ Sitemap: https://yyand.me/sitemap.xml
 
 # Allow podcast feeds
 Allow: /feed.xml
-Allow: /feeds.html
 
 # Allow episode pages
 Allow: /episodes/
