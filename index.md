@@ -60,5 +60,3 @@ title: YY and Me Podcast
     </div>
   </div>
 </div>
-
-{% include episode-navigation.html %}
