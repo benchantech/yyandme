@@ -7,7 +7,7 @@ permalink: /episodes/dynamics/
 <iframe
   data-testid="embed-iframe"
   class="responsive-iframe"
-  src="https://open.spotify.com/embed/episode/7snHYZsCpO1oNidk2RZh02?utm_source=generator"
+  src="https://open.spotify.com/embed/episode/1DAi6rUH1QrbYc8601LYy4?utm_source=generator"
   frameborder="0"
   allowfullscreen
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
