@@ -4,6 +4,16 @@ title: Time Enough (Arc 1 | Episode 5)
 permalink: /episodes/time-enough/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/6dCAD0HeJ5M9LAyPUgvtnB?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 What happens when time itself becomes a debt?
 
 Ben unpacks the invisible interest we pay balancing work, family, and self. Childhood coding sessions, crumpled violin notes, and a quiet stuffed squirrel map a lifetime of borrowed hours and deferred choices. It’s a meditation on opportunity cost, emotional mortgages, and what it means to live on borrowed time while trying to leave something lasting.

@@ -11,6 +11,16 @@ title: YY and Me Podcast
 
 <div class="episodes-grid">
   <div class="episode-card">
+    <div class="episode-number">Episode 5</div>
+    <h3 class="episode-title">Time Enough</h3>
+    <p class="episode-description">A reflection on the hidden interest of living on borrowed time, where work, family, and self become a lifetime of deferred choices and emotional mortgages.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/time-enough/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+
+  <div class="episode-card">
     <div class="episode-number">Episode 4</div>
     <h3 class="episode-title">Emotion</h3>
     <p class="episode-description">A deep dive into emotional storytelling, vulnerability, and how music becomes the language of feeling.</p>

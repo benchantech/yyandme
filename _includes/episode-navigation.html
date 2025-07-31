@@ -86,5 +86,22 @@
         </a>
       {% endif %}
     </li>
+    <li class="episode-nav-item{% if page.permalink == '/episodes/time-enough/' %} current{% endif %}">
+      {% if page.permalink == '/episodes/time-enough/' %}
+        <div class="episode-nav-number">5</div>
+        <div class="episode-nav-content">
+          <div class="episode-nav-title">Time Enough</div>
+          <div class="episode-nav-subtitle">Debt & Legacy (Current)</div>
+        </div>
+      {% else %}
+        <a href="/episodes/emotion/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
+          <div class="episode-nav-number">4</div>
+          <div class="episode-nav-content">
+            <div class="episode-nav-title">Time Enough</div>
+            <div class="episode-nav-subtitle">Debt & Legacy</div>
+          </div>
+        </a>
+      {% endif %}
+    </li>
   </ul>
 </div> 
