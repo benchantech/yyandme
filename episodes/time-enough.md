@@ -12,6 +12,8 @@ Ben unpacks the invisible interest we pay balancing work, family, and self. Chil
 
 🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
+{% include episode-navigation.html %}
+
 <hr />
 <p><strong>Full Transcript:</strong></p>
 <p>YY and Me Episode 5: Time Enough</p>
