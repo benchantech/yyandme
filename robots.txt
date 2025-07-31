@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yyand.me/sitemap.xml
+
+# Allow podcast feeds
+Allow: /feed.xml
+
+# Allow episode pages
+Allow: /episodes/
+
+# Allow assets
+Allow: /assets/
+
+# Disallow admin or private areas (if any)
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_posts/
+Disallow: /_config.yml 
