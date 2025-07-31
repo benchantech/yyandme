@@ -169,5 +169,35 @@
     <itunes:explicit>No</itunes:explicit>
     </item>
 
-  </channel>
+    <!--  EPISODE 6  -->
+    <item>
+    <title>Time Enough (Episode 5 | Arc 1)</title>
+    <itunes:title>Time Enough (Episode 5 | Arc 1)</itunes:title>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">d8d153c9-d173-4ff6-acfd-d40eb5da11c7</guid>
+    <link>https://yyand.me/episodes/time-enough</link>
+    <description>
+    <![CDATA[
+	    <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p> 
+	    <p>Ben reflects on the hidden costs of time: work, family, and self, and how every choice carries interest. Childhood coding marathons, crumpled violin notes, and a stuffed squirrel reveal a lifetime of borrowed hours—and what it means to pay them back.</p>
+    ]]>
+    </description>
+    <pubDate>Thu, 31 Jul 2025 06:41:00 -0400</pubDate>
+    <author>Ben Chan</author>
+    <enclosure url="https://archive.org/download/time-enough-episode-5/time-enough-episode-5.mp3" length="10687394" type="audio/mpeg"/>
+    <itunes:duration>366</itunes:duration>
+    <itunes:summary>
+    <![CDATA[
+	    <p>Time, interest, and the debts we incur balancing work, family, and self.</p>
+    ]]>
+    </itunes:summary>
+    <itunes:author>Ben Chan</itunes:author>
+    <itunes:keywords>
+    time management, emotional storytelling, parenting and creativity, opportunity cost, personal journal podcast, legacy audio, violin and coding, work-life balance, introspection
+    </itunes:keywords>
+    <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    </channel>
 </rss>

@@ -21,7 +21,7 @@ In this episode, Ben reflects on the cost of forgetting — how AI, ambition, an
 
 🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 <hr />
-<p>Episode 4: Emotion</p>
+<p><strong>Full Transcript:</strong></p>
 <p>YY and Me Episode 4: Emotion</p>
 
 <p>(Opening motif – plucked AE-AE medium, pause, GD-GD-GD-GD…GD! soft cresc to loud, bartok snap.)</p>
