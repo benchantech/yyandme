@@ -11,6 +11,15 @@ title: YY and Me Podcast
 
 <div class="episodes-grid">
   <div class="episode-card">
+    <div class="episode-number">Episode 6</div>
+    <h3 class="episode-title">The "Author Ship"</h3>
+    <p class="episode-description">A diegetic escape story blending practice, improvisation, and human agency against automated control, revealing how constraint and collaboration spark true innovation.</p>
+    <div class="episode-meta">
+      <span class="episode-date">Arc 1</span>
+      <a href="/episodes/the-author-ship/" class="listen-button">Listen Now</a>
+    </div>
+  </div>
+  <div class="episode-card">
     <div class="episode-number">Episode 5</div>
     <h3 class="episode-title">Time Enough</h3>
     <p class="episode-description">A reflection on the hidden interest of living on borrowed time, where work, family, and self become a lifetime of deferred choices and emotional mortgages.</p>
