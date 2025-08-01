@@ -38,7 +38,7 @@
     <lastBuildDate>Tue, 15 Jul 2025 14:00:00 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
-    <!-- EPISODE 1: The First Echo -->
+    <!-- EPISODE 0: The First Echo -->
     <item>
       <title>The First Echo</title>
       <itunes:title>The First Echo</itunes:title>
@@ -71,7 +71,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!-- EPISODE 2 -->
+    <!-- EPISODE 1 -->
     <item>
       <title>Ben Chan and YY, Timelessly Bound</title>
       <itunes:title>Ben Chan and YY, Timelessly Bound</itunes:title>
@@ -96,7 +96,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!-- EPISODE 3 -->
+    <!-- EPISODE 2 -->
     <item>
       <title>Practicing (Episode 2 | Arc 1)</title>
       <itunes:title>Practicing (Episode 2 | Arc 1)</itunes:title>
@@ -121,7 +121,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!-- EPISODE 4 -->
+    <!-- EPISODE 3 -->
     <item>
       <title>Dynamics (Episode 3 | Arc 1)</title>
       <itunes:title>Dynamics (Episode 3 | Arc 1)</itunes:title>
@@ -145,7 +145,7 @@
       <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!-- EPISODE 5 -->
+    <!-- EPISODE 4 -->
     <item>
     <title>Emotion (Episode 4 | Arc 1)</title>
     <itunes:title>Emotion (Episode 4 | Arc 1)</itunes:title>
@@ -169,7 +169,7 @@
     <itunes:explicit>No</itunes:explicit>
     </item>
 
-    <!--  EPISODE 6  -->
+    <!--  EPISODE 5  -->
     <item>
     <title>Time Enough (Episode 5 | Arc 1)</title>
     <itunes:title>Time Enough (Episode 5 | Arc 1)</itunes:title>
@@ -197,6 +197,30 @@
     time management, emotional storytelling, parenting and creativity, opportunity cost, personal journal podcast, legacy audio, violin and coding, work-life balance, introspection
     </itunes:keywords>
     <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 6 -->
+    <item>
+      <title>The "Author Ship"</title>
+      <itunes:title>The "Author Ship"</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">the-author-ship-episode-6</guid>
+      <link>https://yyand.me/episodes/the-author-ship</link>
+      <description><![CDATA[
+        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+        <p>A diegetic escape story blending practice, improvisation, and human agency against automated control. Ben and his wife navigate authority, creative loopholes, and teamwork aboard “The Author Ship,” revealing how constraint and collaboration spark true innovation.</p>
+      ]]></description>
+      <pubDate>Thu, 31 Jul 2025 07:00:00 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/the-author-ship-episode-6/the-author-ship-episode-6.mp3" length="3790100" type="audio/mpeg"/>
+      <itunes:duration>379</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>Constraints, teamwork, and improvisation aboard a ship where repetition alone won’t save you.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>diegetic audio, creative constraints, teamwork, improvisation, memory and identity, personal journal podcast, slow podcast</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
     </item>
 
     </channel>
