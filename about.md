@@ -17,7 +17,7 @@ permalink: /about/
 
   <p>
     Each episode uses the frameworks I've been building for years: story arcs tuned for memory, mnemonic music motifs, and diegetic sponsorships that weave support directly into the narrative. 
-    It's more than a story; it's an inheritance you can listen to.
+    It's more than a story; it's an inheritance you can listen to. Today.
   </p>
 </section>
 
@@ -34,16 +34,11 @@ permalink: /about/
   <p>
     <em>YY and Me</em> sits inside a larger project: building frameworks that carry emotional weight across generations. That work now lives inside <a href="https://benchantech.com" target="_blank">my LLC</a>, where I help others create their own narrative systems.  If you're a founder, builder, and/or parent trying to architect something that lasts, you're in the right place.
   </p>
-
-  <p>
-    To help keep the podcast alive while I map these systems for others, you can do that quietly and directly through <a href="https://patreon.com/opencodeorchestra" target="_blank">Patreon</a> where I'm orchestrating a larger community effort.  Stay tuned!
-  </p>
 </section>
 
 <section>
   <h2>The Invitation</h2>
   <p>
-    Start with the podcast. If it resonates, the rest follows naturally. 
-    This is still part memoir, part manifesto, part inheritance-in-progress.
+    Start with the podcast. If it resonates, the rest follows naturally. Enjoy!
   </p>
 </section>
