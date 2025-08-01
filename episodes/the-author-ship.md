@@ -14,7 +14,7 @@ permalink: /episodes/the-author-ship/
   loading="lazy">
 </iframe>
 
-A diegetic escape story blending practice, improvisation, and human agency against automated control. Ben and his wife navigate authority, creative loopholes, and teamwork aboard “The Author Ship,” revealing how constraint and collaboration spark true innovation.
+A diegetic escape story blending practice, improvisation, and human agency against automated control. Ben and his friend Zu navigate authority, creative loopholes, and teamwork aboard “The Author Ship,” revealing how constraint and collaboration spark true innovation.
 
 **Keywords**: diegetic audio, creative constraints, improvisation, practice and play, authority and agency, teamwork, escape story, memory and identity, slow podcast, personal journal podcast
 
