@@ -26,120 +26,371 @@ This episode explores the intersection of emotional expression, creative authent
 
 <hr />
 <p><strong>Full Transcript:</strong></p>
-<p>YY and Me Episode 4: Emotion</p>
-<p>(Opening motif – plucked notes with emotional expression)</p>
-<p>Emotion.</p>
-<p>It's what makes music alive.</p>
-<p>What makes stories resonate.</p>
-<p>What makes us human.</p>
-<p>(YY's voice):</p>
-<p>"Even stuffed animals?"</p>
-<p>Especially stuffed animals, YY.</p>
-<p>Especially you.</p>
-<p>You've been with me through everything.</p>
-<p>Through the highs and lows.</p>
-<p>Through the moments of joy and the moments of doubt.</p>
-<p>You've seen me at my best and my worst.</p>
-<p>And you've never judged.</p>
-<p>That's what emotion is, really.</p>
-<p>It's the raw, unfiltered truth of who we are.</p>
-<p>It's what we feel when we're not trying to be anything else.</p>
-<p>In music, emotion is everything.</p>
-<p>You can play every note perfectly—</p>
-<p>hit every rhythm exactly—</p>
-<p>but if there's no emotion, there's no life.</p>
-<p>It's just sound.</p>
-<p>Beautiful sound, maybe.</p>
-<p>But not music.</p>
-<p>Not really.</p>
-<p>I learned this early.</p>
-<p>When I was a kid, I would practice for hours.</p>
-<p>I would get every note right.</p>
-<p>But my teacher would still say, "Ben, where's the feeling?"</p>
-<p>I didn't understand.</p>
-<p>I was playing the right notes.</p>
-<p>What more did she want?</p>
-<p>It took me years to understand.</p>
-<p>Years to realize that music isn't about the notes.</p>
-<p>It's about what the notes mean.</p>
-<p>About what they make us feel.</p>
-<p>About the stories they tell.</p>
-<p>I see this in my relationships, too.</p>
-<p>With my kids.</p>
-<p>With my wife.</p>
-<p>Sometimes I get so focused on being right—</p>
-<p>on saying the right thing—</p>
-<p>that I forget to be real.</p>
-<p>I forget to let them see how I really feel.</p>
-<p>But that's what they need.</p>
-<p>That's what we all need.</p>
-<p>To be seen.</p>
-<p>To be heard.</p>
-<p>To be felt.</p>
-<p>In my creative work, I've learned that vulnerability is strength.</p>
-<p>That sharing my emotions—</p>
-<p>my fears, my hopes, my doubts—</p>
-<p>that's what connects me to others.</p>
-<p>That's what makes my work meaningful.</p>
-<p>That's what makes it real.</p>
-<p>Music has been my way of processing emotions.</p>
-<p>Of understanding what I'm feeling.</p>
-<p>Of expressing what I can't put into words.</p>
-<p>When I'm happy, I play differently.</p>
-<p>When I'm sad, I play differently.</p>
-<p>When I'm angry, I play differently.</p>
-<p>When I'm in love, I play differently.</p>
-<p>The notes are the same.</p>
-<p>But the feeling is different.</p>
-<p>That's emotion.</p>
-<p>That's what makes music magic.</p>
-<p>That's what makes life beautiful.</p>
-<p>(YY's voice):</p>
-<p>"I like it when you play happy."</p>
-<p>I like it too, YY.</p>
-<p>I like it too.</p>
-<p>But you know what?</p>
-<p>I also like it when I play sad.</p>
-<p>When I play angry.</p>
-<p>When I play confused.</p>
-<p>Because those emotions are real, too.</p>
-<p>They're part of who I am.</p>
-<p>Part of who we all are.</p>
-<p>And when I play them—</p>
-<p>when I really feel them—</p>
-<p>that's when the music comes alive.</p>
-<p>That's when it becomes something more than sound.</p>
-<p>That's when it becomes art.</p>
-<p>That's when it becomes truth.</p>
-<p>Emotion is the bridge between us.</p>
-<p>Between me and you.</p>
-<p>Between the performer and the listener.</p>
-<p>Between the storyteller and the audience.</p>
-<p>It's what makes us human.</p>
-<p>What makes us connect.</p>
-<p>What makes us care.</p>
-<p>So let's not be afraid of our emotions.</p>
-<p>Let's embrace them.</p>
-<p>Let's express them.</p>
-<p>Let's share them.</p>
-<p>Because that's what makes everything more beautiful.</p>
-<p>That's what makes everything more real.</p>
-<p>That's what makes everything more alive.</p>
-<p>(YY's voice):</p>
-<p>"I feel that."</p>
-<p>I know you do, YY.</p>
-<p>I know you do.</p>
-<p>And that's why we're here.</p>
-<p>That's why we're doing this.</p>
-<p>That's why we're telling our story.</p>
-<p>Because emotion matters.</p>
-<p>Because feeling matters.</p>
-<p>Because being real matters.</p>
-<p>Thank you for being here.</p>
-<p>For listening.</p>
-<p>For feeling.</p>
-<p>For being part of this journey.</p>
-<p>This is YY and Me.</p>
-<p>And this is just the beginning.</p>
-<p>(Closing motif with full emotional expression)</p>
+Episode 4: Emotion
+YY and Me Episode 4: Emotion
+(Opening motif – plucked AE-AE medium, pause, GD-GD-GD-GD…GD! soft cresc to loud, bartok snap.)
+(YY’s voice): “Hi, Ben! Whatcha doin’?”
+[pause]
+Hmm? Oh. Just reading.
+(YY’s voice): “Ah. …Whatcha readin’?”
+[pause]
+It’s… complicated.
+(YY’s voice): “Huh?”
+I’ve got a lot of thinking to do.
+(YY’s voice): “About what?”
+[pause]
+I’m not sure I’m ready to talk about it.
+(YY’s voice): “Okay... but um, I’m here.”
+Thanks.
+(opening phrase of song on violin, which is an original I composed that is deeply reflective and dissonant: CC#G#EEb-B-D—-C—-----.  Violin stops)
+I often play something like this to help me when I’m feeling stuck.  It helps me calm down. Focus.
+I’m not sure YY would understand this one.
+Or maybe… I’m just afraid he’ll take it too lightly.
+Either way, I’m working through it alone.
+It’s… really emotionally charged for me.
 
+(pause)
+
+When I was in 3rd grade, I bought a composition notebook.
+Black binding, with white inkbots across the front and back.
+200 pages of lined paper, double sided.
+I can still remember the smell.
+The sound of flipping through.
+Skimming the entries.
+The satisfying scratch of a Number 2 pencil.
+
+(pause)
+
+At school, our teacher gave us a simple task.
+Start a journal.
+Write an entry a few times a week.
+Capture my 8-year-old thoughts.
+Learn to write.
+Find my voice.
+
+(pause)
+
+I loved writing in that composition notebook.
+Every journal entry began with the date and time.
+Sometimes, I would write about bus rides.
+Other times, I would vent about my siblings.
+On occasion, I said something insightful.
+Realized years later.
+
+(pause)
+
+By the time I graduated high school
+I had filled up 29 notebooks.
+Hundred, maybe thousands of journal entries.
+Comics of stuffed animals.
+A trove of thoughts and feelings
+Captured in each moment.
+
+(pause)
+
+My wife and I started a journal together.
+I have it on my lap right now.
+Brown cover, the word “JOURNAL” in all caps.
+
+(pause)
+
+We wrote in it periodically.
+Thoughts, feelings, inspiration.
+I predicted the gender of each child.
+Timestamped.  A lucky streak.
+
+(pause)
+
+She still writes a family letter every week.
+
+(pause)
+
+I, on the other hand…
+
+(pause)
+
+It wasn’t for lack of trying.
+I tried to start an online blog.
+Several times, actually.
+I wrote as myself.
+Wrote from the perspective of YY.
+
+(pause)
+
+But the problem was
+I couldn’t think of much to write.
+Who wants to hear about my life?
+What do I have to say that hasn’t already been said
+By other dads
+Thousands of times?
+What makes me unique?
+
+(pause)
+
+What’s the point?
+
+(pause)
+
+Fast forward to June 2025.
+Time to try again.
+For real, this time.
+Bought a new composition notebook.
+A cover for my iPad mini, actually.
+Impulse buy.
+Looked nice.
+It… seemed to make sense.
+To me.
+To my family, on the surface.
+
+(pause)
+
+So… familiar.
+
+(pause)
+
+This time, things would be different.
+I would write to my kids.
+Tell them about my life.
+Embed lessons to uncover.
+When they’re ready.
+
+(pause)
+
+How… do I write about myself?
+It’s been so long.
+I’ve forgotten how.
+
+(pause)
+
+Dusty case.
+Hair a little worn.
+Unraveling, loose strings.
+
+(pause)
+
+Just start.
+Write a few words.
+Something.
+Anything.
+
+(pause)
+
+Practice.
+
+(pause)
+
+This hurts.
+
+(pause)
+
+It’s okay.
+Start slow.
+Same thing I tell my kids
+When they’re struggling.
+Funny how so much of what I’ve said to them
+Reflects right back at me.
+
+(pause)
+
+And you know what?
+I think it’s working.
+Reading back what I’m writing
+I can hear my voice.
+A little disorganized
+Meandering…
+
+(pause)
+
+I need to speed this up.
+Time is king.
+My wife is an excellent writer.
+Her sense of tone, sharpened
+By thousands of books.
+Maybe she can help.
+
+(pause)
+
+I don’t want to bother her.
+This burden is mine.
+Alone.
+
+(pause)
+
+I need to find a power tool.
+Something I can train with.
+No external dependencies.
+
+(pause)
+
+What about… 
+AI?
+
+(pause)
+
+Can you… help me improve my writing skills?
+In isolation?
+Read my drafts?
+Tinker… a little?
+Teach me?
+
+(pause)
+
+Whoa.
+That was fast.
+So much output.
+A skeletal frame.
+Details carefully arranged.
+Clean.
+So clean.
+
+(pause)
+
+Too clean.
+What did you do to my voice?
+Where’s the expression?
+The emotion?
+It was there…
+Before.
+
+(pause)
+
+I just need to practice more.
+It’s like everything else, right?
+Put in the time.
+Ensure proper technique.
+I’ve done this a million times before.
+Different domain, but…
+
+(pause)
+
+It’s the same thing, right?
+
+(pause)
+
+Right?
+
+(pause)
+
+What… time is it?
+Shoot, I’m late.
+Dinner’s already served.
+
+(pause)
+
+“Dad…
+where are you?”
+
+(pause)
+
+“Sorry.
+Didn’t know you were still working.”
+
+(pause)
+
+I just need a few more minutes.
+Got to get this draft right.
+Thread the needle.
+(slight pause)
+It’s getting more complicated.
+But the story deserves it.
+The story…
+
+(pause)
+
+Did I just call it…
+“The story”?
+
+(pause)
+
+I’m writing this for my kids.
+They won’t hear it now.
+It’s for their future.
+That’s why I need to use AI
+To upgrade my voice
+Faster.  Better.
+
+(pause)
+
+To… upgrade my voice?
+Ben.
+Are you hearing yourself?
+
+(pause)
+
+I was… 
+Writing to my kids.
+In the future.
+Not now.
+And I forgot.
+
+(pause)
+
+They’re here.
+Now.
+And they need me.
+
+(pause)
+
+Right now.
+
+(pause)
+
+(violin plays the full piece)
+
+(pause)
+
+The price of AI
+Especially on emotions
+Can be steep.
+Merciless.
+And the most dangerous part–
+
+(pause)
+
+You didn’t see it coming.
+And you have to pay.
+
+[pause]
+You know what—
+I do need YY for this one.
+Hang on.
+
+(YY’s voice) “Hi, Ben!”
+Thanks for coming back.
+Sorry about earlier.
+(YY’s voice) (without skipping a beat)
+“No problem! What’s up?”
+So… you know how I’ve been really busy?
+Building something new?
+(YY’s voice)
+“I mean, YEAH.”
+I… forgot to pay attention to my family.
+[pause]
+(YY’s voice)
+“Yeah, I know.”
+Was that the right thing to do?
+[pause]
+(YY’s voice) (lightbulb flicking on)
+“Ohhh. That’s what this is about?”
+It is.
+(YY’s voice)
+“Okay, so… you’ve been distracted, and… and…”
+[pause]
+(YY’s voice)
+“Do you miss your kids?”
+Yeah.
+[pause]
+“Do they… want your attention?”
+They do.
+(YY’s voice)
+“Does that… matter to you?”
+[pause]
+It does.
+[longer pause]
+(YY’s voice, softer)
+“…What are you going to do?”
+(pause)
+I just need a little more time.
+To think.
+(pause)
+[motif]
