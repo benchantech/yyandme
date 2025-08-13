@@ -1,0 +1,9 @@
+<div class="episode-card">
+    <div class="episode-number">Episode {{ ep.n }}</div>
+    <h3 class="episode-title">{{ ep.title }}</h3>
+    <p class="episode-description">{{ ep.description }}</p>
+    <div class="episode-meta">
+      <span class="episode-date">{{ ep.arc }}</span>
+      <a href="{{ ep.url | relative_url }}" class="listen-button">Listen Now</a>
+    </div>
+  </div>

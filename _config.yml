@@ -57,27 +57,41 @@ episodes:
     url: /episodes/the-first-echo/
     title: The First Echo
     subtitle: Foundation & Manifesto
+    description: "Welcome to YY and Me — a podcast about identity, imagination, and learning out loud. This opening episode is both manifesto and experiment."
+    arc: "Foundation"
   - n: 1
     url: /episodes/ben-chan-and-yy/
     title: Ben Chan and YY
     subtitle: Identity & Childhood
+    description: "What if your first storytelling partner was a stuffed squirrel? This episode introduces YY, the thread running through Ben's entire identity arc."
+    arc: "Arc 1"
   - n: 2
     url: /episodes/practicing/
     title: Practicing
     subtitle: Habits & Unlearning
+    description: "What if practice doesn't make perfect — just permanent? Ben explores how repetition can encode emotional rigidity and technical failure."
+    arc: "Arc 1"
   - n: 3
     url: /episodes/dynamics/
     title: Dynamics
     subtitle: Control & Surrender
+    description: "Exploring the tension between control and surrender in music, relationships, and creative expression."
+    arc: "Arc 1"
   - n: 4
     url: /episodes/emotion/
     title: Emotion
     subtitle: Vulnerability & Music
+    description: "A deep dive into emotional storytelling, vulnerability, and how music becomes the language of feeling."
+    arc: "Arc 1"
   - n: 5
     url: /episodes/time-enough/
     title: Time Enough
     subtitle: Debt & Legacy
+    description: "A reflection on the hidden interest of living on borrowed time, where work, family, and self become a lifetime of deferred choices and emotional mortgages."
+    arc: "Arc 1"
   - n: 6
     url: /episodes/the-author-ship/
     title: The "Author Ship"
     subtitle: Practice & Improv
+    description: "A diegetic escape story blending practice, improvisation, and human agency against automated control, revealing how constraint and collaboration spark true innovation."
+    arc: "Arc 1"
