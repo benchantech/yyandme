@@ -1,19 +1,20 @@
 <div class="episode-navigation">
   <h3 class="nav-title">Episode Navigation</h3>
   <ul class="episode-nav-list">
-    {%- assign current = page.url | default: page.permalink -%}
+    {%- assign current = page.url | relative_url | replace: '/index.html','/' -%}
     {%- assign items = site.episodes | sort: "n" -%}
     {%- for ep in items -%}
-      {%- assign is_current = (current == ep.url) -%}
-      <li class="episode-nav-item{% if is_current %} current{% endif %}">
-        {% if is_current %}
+      {%- assign ep_url = ep.url | relative_url | replace: '/index.html','/' -%}
+
+      <li class="episode-nav-item{% if current == ep_url %} current{% endif %}">
+        {% if current == ep_url %}
           <div class="episode-nav-number">{{ ep.n }}</div>
           <div class="episode-nav-content">
             <div class="episode-nav-title">{{ ep.title }}</div>
             <div class="episode-nav-subtitle">{{ ep.subtitle }} (Current)</div>
           </div>
         {% else %}
-          <a href="{{ ep.url }}" style="display:flex; align-items:center; width:100%; text-decoration:none;">
+          <a href="{{ ep_url }}" style="display:flex; align-items:center; width:100%; text-decoration:none;">
             <div class="episode-nav-number">{{ ep.n }}</div>
             <div class="episode-nav-content">
               <div class="episode-nav-title">{{ ep.title }}</div>
