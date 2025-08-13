@@ -1,124 +1,27 @@
 <div class="episode-navigation">
   <h3 class="nav-title">Episode Navigation</h3>
   <ul class="episode-nav-list">
-    <li class="episode-nav-item{% if page.permalink == '/episodes/the-first-echo/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/the-first-echo/' %}
-        <div class="episode-nav-number">0</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">The First Echo</div>
-          <div class="episode-nav-subtitle">Foundation & Manifesto (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/the-first-echo/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">0</div>
+    {%- assign current = page.url | default: page.permalink -%}
+    {%- assign items = site.episodes | sort: "n" -%}
+    {%- for ep in items -%}
+      {%- assign is_current = (current == ep.url) -%}
+      <li class="episode-nav-item{% if is_current %} current{% endif %}">
+        {% if is_current %}
+          <div class="episode-nav-number">{{ ep.n }}</div>
           <div class="episode-nav-content">
-            <div class="episode-nav-title">The First Echo</div>
-            <div class="episode-nav-subtitle">Foundation & Manifesto</div>
+            <div class="episode-nav-title">{{ ep.title }}</div>
+            <div class="episode-nav-subtitle">{{ ep.subtitle }} (Current)</div>
           </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/ben-chan-and-yy/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/ben-chan-and-yy/' %}
-        <div class="episode-nav-number">1</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Ben Chan and YY</div>
-          <div class="episode-nav-subtitle">Identity & Childhood (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/ben-chan-and-yy/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">1</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">Ben Chan and YY</div>
-            <div class="episode-nav-subtitle">Identity & Childhood</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/practicing/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/practicing/' %}
-        <div class="episode-nav-number">2</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Practicing</div>
-          <div class="episode-nav-subtitle">Habits & Unlearning (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/practicing/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">2</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">Practicing</div>
-            <div class="episode-nav-subtitle">Habits & Unlearning</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/dynamics/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/dynamics/' %}
-        <div class="episode-nav-number">3</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Dynamics</div>
-          <div class="episode-nav-subtitle">Control & Surrender (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/dynamics/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">3</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">Dynamics</div>
-            <div class="episode-nav-subtitle">Control & Surrender</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/emotion/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/emotion/' %}
-        <div class="episode-nav-number">4</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Emotion</div>
-          <div class="episode-nav-subtitle">Vulnerability & Music (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/emotion/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">4</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">Emotion</div>
-            <div class="episode-nav-subtitle">Vulnerability & Music</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/time-enough/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/time-enough/' %}
-        <div class="episode-nav-number">5</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">Time Enough</div>
-          <div class="episode-nav-subtitle">Debt & Legacy (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/time-enough/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">5</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">Time Enough</div>
-            <div class="episode-nav-subtitle">Debt & Legacy</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
-    <li class="episode-nav-item{% if page.permalink == '/episodes/the-author-ship/' %} current{% endif %}">
-      {% if page.permalink == '/episodes/the-author-ship/' %}
-        <div class="episode-nav-number">6</div>
-        <div class="episode-nav-content">
-          <div class="episode-nav-title">The "Author Ship"</div>
-          <div class="episode-nav-subtitle">Practice & Improv (Current)</div>
-        </div>
-      {% else %}
-        <a href="/episodes/the-author-ship/" style="display: flex; align-items: center; width: 100%; text-decoration: none;">
-          <div class="episode-nav-number">6</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">The "Author Ship"</div>
-            <div class="episode-nav-subtitle">Practice & Improv</div>
-          </div>
-        </a>
-      {% endif %}
-    </li>
+        {% else %}
+          <a href="{{ ep.url }}" style="display:flex; align-items:center; width:100%; text-decoration:none;">
+            <div class="episode-nav-number">{{ ep.n }}</div>
+            <div class="episode-nav-content">
+              <div class="episode-nav-title">{{ ep.title }}</div>
+              <div class="episode-nav-subtitle">{{ ep.subtitle }}</div>
+            </div>
+          </a>
+        {% endif %}
+      </li>
+    {%- endfor -%}
   </ul>
-</div> 
+</div>

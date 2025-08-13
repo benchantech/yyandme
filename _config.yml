@@ -50,3 +50,34 @@ defaults:
       layout: "default"
       author: "Ben Chan"
       category: "Podcast"
+
+# Episode metadata
+episodes:
+  - n: 0
+    url: /episodes/the-first-echo/
+    title: The First Echo
+    subtitle: Foundation & Manifesto
+  - n: 1
+    url: /episodes/ben-chan-and-yy/
+    title: Ben Chan and YY
+    subtitle: Identity & Childhood
+  - n: 2
+    url: /episodes/practicing/
+    title: Practicing
+    subtitle: Habits & Unlearning
+  - n: 3
+    url: /episodes/dynamics/
+    title: Dynamics
+    subtitle: Control & Surrender
+  - n: 4
+    url: /episodes/emotion/
+    title: Emotion
+    subtitle: Vulnerability & Music
+  - n: 5
+    url: /episodes/time-enough/
+    title: Time Enough
+    subtitle: Debt & Legacy
+  - n: 6
+    url: /episodes/the-author-ship/
+    title: The "Author Ship"
+    subtitle: Practice & Improv
