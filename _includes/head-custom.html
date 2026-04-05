@@ -34,6 +34,25 @@
 <meta name="apple-itunes-app" content="app-id=1826275180">
 <meta name="google-play-app" content="app-id=com.spotify.music">
 
+<!-- Person schema — canonical entity reference -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://benchantech.com/#person",
+  "name": "Ben Chan",
+  "url": "https://benchantech.com",
+  "sameAs": [
+    "https://yymethod.com",
+    "https://home.yymethod.com",
+    "https://yyand.me",
+    "https://benchantech.com",
+    "https://www.youtube.com/@benchanviolin",
+    "https://benchanviolin.substack.com"
+  ]
+}
+</script>
+
 <!-- Structured Data for Podcast -->
 <script type="application/ld+json">
 {
@@ -45,6 +64,7 @@
   "image": "https://yyand.me/assets/yyandme-art-1500x1500.jpg",
   "author": {
     "@type": "Person",
+    "@id": "https://benchantech.com/#person",
     "name": "Ben Chan"
   },
   "publisher": {

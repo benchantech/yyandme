@@ -32,7 +32,7 @@ permalink: /about/
 <section>
   <h2>The Work Beyond</h2>
   <p>
-    <em>YY and Me</em> sits inside a larger project: building frameworks that carry emotional weight across generations. That work now lives inside <a href="https://benchantech.com" target="_blank">my LLC</a>, where I help others create their own narrative systems.  If you're a founder, builder, and/or parent trying to architect something that lasts, you're in the right place.
+    <em>YY and Me</em> sits inside a larger project: building frameworks that carry emotional weight across generations. That work is formalized as the <a href="https://yymethod.com" target="_blank" rel="noopener">YY Method</a> — the method that grew from this. It operates through <a href="https://benchantech.com" target="_blank" rel="noopener">Ben Chan Tech LLC</a>.
   </p>
 </section>
 
