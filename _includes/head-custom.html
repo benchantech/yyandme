@@ -36,44 +36,32 @@
 
 <!-- Person schema — canonical entity reference -->
 <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "PodcastSeries",
-      "@id": "https://yyand.me/#podcast",
-      "name": "YY and Me",
-      "url": "https://yyand.me/",
-      "description": "YY and Me is a narrative podcast and creative archive by Ben Chan exploring legacy, myth, violin, AI, identity, imagination, and learning out loud.",
-      "creator": { "@id": "https://benchantech.com/#person" },
-      "publisher": { "@id": "https://benchantech.com/#organization" },
-      "about": [
-        { "@id": "https://benchantech.com/#person" },
-        { "@id": "https://yysworld.com/#yy-character" }
-      ],
-      "mentions": [
-        { "@id": "https://yymethod.com/#yy-method" }
-      ],
-      "mainEntityOfPage": { "@id": "https://yyand.me/#webpage" }
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://yyand.me/#website",
-      "name": "YY and Me",
-      "url": "https://yyand.me/",
-      "creator": { "@id": "https://benchantech.com/#person" },
-      "about": { "@id": "https://yyand.me/#podcast" }
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://yyand.me/#webpage",
-      "url": "https://yyand.me/",
-      "name": "YY and Me",
-      "isPartOf": { "@id": "https://yyand.me/#website" },
-      "mainEntity": { "@id": "https://yyand.me/#podcast" }
-    }
+  "@type": ["PodcastSeries", "CreativeWorkSeries"],
+  "@id": "https://yyand.me/#podcast",
+  "name": "YY and Me Podcast",
+  "headline": "YY and Me Podcast",
+  "url": "https://yyand.me/",
+  "description": "A podcast by Ben Chan exploring and building legacy, myth, violin, and AI — in real time.",
+  "creator": { "@id": "https://benchantech.com/#person" },
+  "author": { "@id": "https://benchantech.com/#person" },
+  "publisher": { "@id": "https://benchantech.com/#organization" },
+  "sameAs": [
+    "https://podcasts.apple.com/podcast/yy-and-me/id1826275180",
+    "https://open.spotify.com/show/7snHYZsCpO1oNidk2RZh02"
+  ],
+  "about": [
+    { "@id": "https://benchantech.com/#person" },
+    { "@id": "https://yymethod.com/#yy-method" },
+    "legacy",
+    "myth",
+    "violin",
+    "AI"
   ]
 }
+</script>
 </script>
 
 <!-- Structured Data for Podcast -->
