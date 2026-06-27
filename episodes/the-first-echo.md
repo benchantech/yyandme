@@ -28,7 +28,7 @@ Whether you're a creator, a parent, or someone rebuilding your voice, this episo
 
 **Keywords**: emotional storytelling, podcast structure experiments, digital legacy, identity through sound, learning in public, creator transition, violin podcast, narrative design
 
-🎧 **Listen above**, and please [leave your feedback](https://yyand.me/the-first-echo). Your voice is the signal I need most right now.
+🎧 **Listen above**, and please [leave your feedback](https://yyandme.benchantech.com/the-first-echo). Your voice is the signal I need most right now.
 
 {% include episode-navigation.html %}
 
@@ -52,6 +52,6 @@ Whether you're a creator, a parent, or someone rebuilding your voice, this episo
 <p>Idea #3: Musical expression: this is my element and most fluent language.  I believe it'll set me apart from other podcasts, as all violin and piano will be performed by me personally.  Spoiler alert: listen to Episode 4 for the premiere of a short composition and a pretty shocking revelation.</p>
 <p>Idea #4: Diegetic sponsors: instead of rolling ads during the episode, which I find to be especially interruptive at times, I'm planning to only include paid ads in the form of in-world interaction, woven directly into the story.  This requires a high level of creativity and alignment with sponsors, but I believe it can be done with the right fit.</p>
 <p>As this podcast gains listeners – and I appreciate any and all efforts to spread the word – I'll continue to share what I'm learning so you can try it, too.  I plan to drop an episode like this one in between arcs so I can revisit what went right, what went sideways, and what I plan to do differently in the next one.  I believe I'll be successful because I'm not afraid to fail.</p>
-<p>Please bookmark yyand.me (that's Y-Y-A-N-D-dot-M-E) and participate in polls and other activities.  With your permission, I will collect and use your feedback to improve my podcast and paid offerings over time.</p>
+<p>Please bookmark yyandme.benchantech.com (that's Y-Y-A-N-D-dot-M-E) and participate in polls and other activities.  With your permission, I will collect and use your feedback to improve my podcast and paid offerings over time.</p>
 <p>Oh, and remember to subscribe to this podcast, too!  Thanks for your support, everyone!</p>
 <p>This is YY and Me.  Let's begin.</p>

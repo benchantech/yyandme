@@ -20,7 +20,7 @@ This episode examines how dynamics shape not just musical performance, but our a
 
 **Keywords**: musical dynamics, creative control, artistic expression, balance in life, violin performance, creative process
 
-🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
+🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 

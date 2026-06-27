@@ -11,7 +11,7 @@ permalink: /about/
 
 <section>
   <p>
-    <em>YY and Me</em> (yyand.me) started as a message-in-a-bottle to my kids and their future selves. It's part memoir, part experiment, and part live test of what I call 
+    <em>YY and Me</em> (yyandme.benchantech.com) started as a message-in-a-bottle to my kids and their future selves. It's part memoir, part experiment, and part live test of what I call 
     <strong>recursive narrative systems</strong>: stories designed to fold back on themselves, compounding meaning over time.
   </p>
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yyand.me/sitemap.xml
+Sitemap: https://yyandme.benchantech.com/sitemap.xml

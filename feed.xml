@@ -8,12 +8,12 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
-    <atom:link rel="self" type="application/rss+xml" href="https://yyand.me/feed.xml"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://yyandme.benchantech.com/feed.xml"/>
     <title>YY and Me</title>
-    <link>https://yyand.me</link>
+    <link>https://yyandme.benchantech.com</link>
     <language>en</language>
     <copyright>© 2025 Ben Chan Tech LLC. All rights reserved.</copyright>
-    <description>YY and Me is a living, growing echo of myself—written for my family, and for any adults still searching for their inner kid. It moves through real moments and shifting memory, across a wide spectrum of emotion. For an extended journey, visit https://yyand.me.</description>
+    <description>YY and Me is a living, growing echo of myself—written for my family, and for any adults still searching for their inner kid. It moves through real moments and shifting memory, across a wide spectrum of emotion. For an extended journey, visit https://yyandme.benchantech.com.</description>
     <itunes:author>Ben Chan</itunes:author>
     <itunes:summary>YY and Me is a living, growing echo of myself—written for my family, and for any adults still searching for their inner kid. Built slowly, meant for deep listening.</itunes:summary>
     <itunes:subtitle>New here? Start with “The First Echo”. Then go chronologically—each episode builds, quietly.</itunes:subtitle>
@@ -23,11 +23,11 @@
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://yyand.me/assets/yyandme-art-1500x1500.jpg"/>
+    <itunes:image href="https://yyandme.benchantech.com/assets/yyandme-art-1500x1500.jpg"/>
     <image>
-      <url>https://yyand.me/assets/yyandme-art-1500x1500.jpg</url>
+      <url>https://yyandme.benchantech.com/assets/yyandme-art-1500x1500.jpg</url>
       <title>YY and Me</title>
-      <link>https://yyand.me</link>
+      <link>https://yyandme.benchantech.com</link>
     </image>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Personal Journals"/>
@@ -44,7 +44,7 @@
       <itunes:title>The First Echo</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">962068b0-2797-4375-abeb-da9d4228e477</guid>
-      <link>https://yyand.me/episodes/the-first-echo</link>
+      <link>https://yyandme.benchantech.com/episodes/the-first-echo</link>
       <description><![CDATA[
         <p>This episode sets the foundation for <em>YY and Me</em>—a podcast about creativity, identity, practice, and building in public.</p>
         <p>Host Ben Chan introduces the intent behind the show, reflects on his past work as a violinist and early YouTuber, and shares why this new format feels necessary.</p>
@@ -57,7 +57,7 @@
           <li>A new kind of sponsorship—woven directly into the story</li>
         </ul>
         <p>If you’re a creator, builder, or parent looking to reconnect with your inner kid—or create something that lasts—this episode is your starting point.</p>
-        <p>✍️ Leave a trace or respond → <a href="https://yyand.me/the-first-echo">yyand.me/the-first-echo</a></p>
+        <p>✍️ Leave a trace or respond → <a href="https://yyandme.benchantech.com/the-first-echo">yyandme.benchantech.com/the-first-echo</a></p>
       ]]></description>
       <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
       <author>Ben Chan</author>
@@ -78,9 +78,9 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">939847bd-eb44-4ff2-9898-02d447cd675b</guid>
-      <link>https://yyand.me/episodes/ben-chan-and-yy</link>
+      <link>https://yyandme.benchantech.com/episodes/ben-chan-and-yy</link>
       <description><![CDATA[
-        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
         <p>Ben introduces YY—the stuffed squirrel he’s kept since childhood—and explores how this companion shaped his imagination, storytelling, and creative voice.</p>
         <p>This episode lays the emotional groundwork for the entire series.</p>
       ]]></description>
@@ -103,9 +103,9 @@
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">c439e614-18d2-4838-8512-3b38bf34ff60</guid>
-      <link>https://yyand.me/episodes/practicing</link>
+      <link>https://yyandme.benchantech.com/episodes/practicing</link>
       <description><![CDATA[
-        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
         <p>Ben explores the limits of practice and how repetition can reinforce poor technique—whether in violin, parenting, or speech.</p>
         <p>A short-form investigation of unlearning as a form of progress.</p>
       ]]></description>
@@ -128,9 +128,9 @@
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">79b53a14-a81d-47db-8a02-7294ff9249ea</guid>
-      <link>https://yyand.me/episodes/dynamics</link>
+      <link>https://yyandme.benchantech.com/episodes/dynamics</link>
       <description><![CDATA[
-        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
         <p>A compressed reflection on presence vs. performance—in music, parenting, and beyond. Real violin demos and a story about being gently corrected by a child.</p>
       ]]></description>
       <pubDate>Sat, 12 Jul 2025 09:40:00 -0400</pubDate>
@@ -152,9 +152,9 @@
     <itunes:episode>4</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <guid isPermaLink="false">d2c9a72e-e041-4e1e-9e04-b7c50c89e4ad</guid>
-    <link>https://yyand.me/episodes/emotion</link>
+    <link>https://yyandme.benchantech.com/episodes/emotion</link>
     <description><![CDATA[
-	    <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+	    <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
 	    <p>A journal becomes a lifeline. Ben reflects on emotional memory, AI writing, and why practicing voice—on paper or in person—might matter more than perfecting it.</p>
     ]]></description>
     <pubDate>Wed, 17 Jul 2025 08:00:00 -0400</pubDate>
@@ -176,10 +176,10 @@
     <itunes:episode>5</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <guid isPermaLink="false">d8d153c9-d173-4ff6-acfd-d40eb5da11c7</guid>
-    <link>https://yyand.me/episodes/time-enough</link>
+    <link>https://yyandme.benchantech.com/episodes/time-enough</link>
     <description>
     <![CDATA[
-	    <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p> 
+	    <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p> 
 	    <p>Ben reflects on the hidden costs of time: work, family, and self, and how every choice carries interest. Childhood coding marathons, crumpled violin notes, and a stuffed squirrel reveal a lifetime of borrowed hours—and what it means to pay them back.</p>
     ]]>
     </description>
@@ -206,9 +206,9 @@
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">the-author-ship-episode-6</guid>
-      <link>https://yyand.me/episodes/the-author-ship</link>
+      <link>https://yyandme.benchantech.com/episodes/the-author-ship</link>
       <description><![CDATA[
-        <p>🎧 Start with The First Echo and leave a trace at yyand.me/the-first-echo.</p>
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
         <p>A diegetic escape story blending practice, improvisation, and human agency against automated control. Ben and his wife navigate authority, creative loopholes, and teamwork aboard “The Author Ship,” revealing how constraint and collaboration spark true innovation.</p>
       ]]></description>
       <pubDate>Thu, 31 Jul 2025 21:23:00 -0400</pubDate>

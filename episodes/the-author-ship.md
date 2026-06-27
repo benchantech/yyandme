@@ -18,7 +18,7 @@ A diegetic escape story blending practice, improvisation, and human agency again
 
 **Keywords**: diegetic audio, creative constraints, improvisation, practice and play, authority and agency, teamwork, escape story, memory and identity, slow podcast, personal journal podcast
 
-🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
+🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 

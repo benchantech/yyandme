@@ -12,6 +12,6 @@ furnished to do so, subject to the following conditions:
 - Any use of podcast audio, ghostwritten material, or narrative content derived
   from YY and Me must credit "Ben Chan Tech LLC" clearly and visibly.
 - Redistribution of derivative works must include a notice of source and licensing.
-- Embeds must link back to https://yyand.me with unaltered attribution.
+- Embeds must link back to https://yyandme.benchantech.com with unaltered attribution.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...

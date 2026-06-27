@@ -20,7 +20,7 @@ Ben unpacks the invisible interest we pay balancing work, family, and self. Chil
 
 **Keywords**: time debt, emotional mortgages, work-life balance, parenting and legacy, opportunity cost, creative sacrifice, violin and coding, borrowed hours, introspection and presence
 
-🎧 **Start with [The First Echo](https://yyand.me/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
+🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
