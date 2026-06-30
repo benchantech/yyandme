@@ -22,6 +22,7 @@
       <itunes:email>ben@benchantech.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
+    <itunes:new-feed-url>https://yyandme.benchantech.com/feed.xml</itunes:new-feed-url>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://yyandme.benchantech.com/assets/yyandme-art-1500x1500.jpg"/>
     <image>
