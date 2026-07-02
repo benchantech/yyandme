@@ -1,0 +1,12 @@
+{%- assign ep = include.ep -%}
+<a class="episode-row{% if ep.arc == 'Foundation' %} foundation{% endif %}" href="{{ ep.url | relative_url }}">
+  <span class="ep-cell-num">
+    <span class="ep-num">0{{ ep.n }}</span>
+    {%- if include.show_arc -%}<span class="ep-arc">{{ ep.arc | upcase }}</span>{%- endif -%}
+  </span>
+  <span class="ep-cell-main">
+    <span class="ep-title">{{ ep.title }}</span>
+    <span class="ep-blurb">{{ ep.description }}</span>
+  </span>
+  <span class="ep-listen">Listen&nbsp;Now</span>
+</a>

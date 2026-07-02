@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: Time Enough (Arc 1 | Episode 5)
 permalink: /episodes/time-enough/
 ---
@@ -19,13 +19,17 @@ What happens when time itself becomes a debt?
 Ben unpacks the invisible interest we pay balancing work, family, and self. Childhood coding sessions, crumpled violin notes, and a quiet stuffed squirrel map a lifetime of borrowed hours and deferred choices. It’s a meditation on opportunity cost, emotional mortgages, and what it means to live on borrowed time while trying to leave something lasting.
 
 **Keywords**: time debt, emotional mortgages, work-life balance, parenting and legacy, opportunity cost, creative sacrifice, violin and coding, borrowed hours, introspection and presence
+{: .ep-keywords}
 
 🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 <p>YY and Me Episode 5: Time Enough</p>
 
 <p>(piano motif: lowest octave DD held – quick rolled EFA, CDG – linger – slower quieter roll ABF…)</p>
@@ -311,4 +315,4 @@ Ben unpacks the invisible interest we pay balancing work, family, and self. Chil
 <p>That's our time.</p>
 
 <p>(piano motif: lowest octave DD held – quick rolled EFA, CDG – linger – slower quieter roll ABbF…)</p>
-
+</div>

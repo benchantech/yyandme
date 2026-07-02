@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: Emotion (Arc 1 | Episode 4)
 permalink: /episodes/emotion/
 ---
@@ -19,13 +19,17 @@ A deep dive into emotional storytelling, vulnerability, and how music becomes th
 This episode explores the intersection of emotional expression, creative authenticity, and the power of musical communication. Ben shares personal stories about how music has helped him process complex emotions and connect with others on a deeper level.
 
 **Keywords**: emotional expression, musical communication, vulnerability in art, creative authenticity, emotional storytelling, music therapy
+{: .ep-keywords}
 
 🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 <p>Episode 4: Emotion YY and Me</p>
 
 <p>(Opening motif – plucked AE-AE medium, pause, GD-GD-GD-GD…GD! soft cresc to loud, bartok snap.)</p>
@@ -173,4 +177,4 @@ This episode explores the intersection of emotional expression, creative authent
 <p>I just need a little more time. To think.</p>
 
 <p>[motif]</p>
-
+</div>

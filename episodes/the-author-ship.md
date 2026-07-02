@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: The "Author Ship" (Arc 1 | Episode 6)
 permalink: /episodes/the-author-ship/
 ---
@@ -17,13 +17,17 @@ permalink: /episodes/the-author-ship/
 A diegetic escape story blending practice, improvisation, and human agency against automated control. Ben and his friend Zu navigate authority, creative loopholes, and teamwork aboard “The Author Ship,” revealing how constraint and collaboration spark true innovation.
 
 **Keywords**: diegetic audio, creative constraints, improvisation, practice and play, authority and agency, teamwork, escape story, memory and identity, slow podcast, personal journal podcast
+{: .ep-keywords}
 
 🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 
 <p>YY and Me Episode 6: The “Author Ship”</p>
 
@@ -224,4 +228,4 @@ Against thousands of these things?<br/>
 (ben’s voice) We’ll figure it out, together.</p>
 
 <p>[original practice motif]</p>
-
+</div>

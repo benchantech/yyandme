@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: Dynamics (Arc 1 | Episode 3)
 permalink: /episodes/dynamics/
 ---
@@ -19,13 +19,17 @@ Exploring the tension between control and surrender in music, relationships, and
 This episode examines how dynamics shape not just musical performance, but our approach to life's challenges and opportunities. Ben shares insights from his journey as a violinist and creator, revealing how the balance between precision and spontaneity influences everything from artistic expression to personal growth.
 
 **Keywords**: musical dynamics, creative control, artistic expression, balance in life, violin performance, creative process
+{: .ep-keywords}
 
 🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 <p>YY and Me Episode 3: Dynamics</p>
 
 <p>(Opening motif – plucked AE-AE medium, DA–DA soft, GD loud.)</p>
@@ -105,3 +109,4 @@ This episode examines how dynamics shape not just musical performance, but our a
 <p>(YY’s voice): “Hmm.”</p>
 
 <p>(Closing motif)</p>
+</div>

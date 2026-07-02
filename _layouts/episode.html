@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign ep = site.episodes | where: "url", page.permalink | first -%}
+<div class="hero-band">
+  <div class="hero-center hero-episode">
+    <div class="mono-kicker">EPISODE 0{{ ep.n }} · {{ ep.subtitle | upcase }}</div>
+    <h1>{{ ep.title }}</h1>
+    <p class="hero-blurb">{{ ep.description }}</p>
+  </div>
+</div>
+
+<div class="episode-body">
+{{ content }}
+</div>

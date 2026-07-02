@@ -1,28 +1,26 @@
-<div class="episode-navigation">
-  <h3 class="nav-title">Episode Navigation</h3>
-  <ul class="episode-nav-list">
+<div class="ep-nav-section">
+  <div class="section-rule">
+    <span class="label">EPISODE NAVIGATION</span>
+    <span class="line"></span>
+  </div>
+  <div class="ep-nav">
     {%- assign current = page.url | relative_url | replace: '/index.html','/' -%}
     {%- assign items = site.episodes | sort: "n" -%}
     {%- for ep in items -%}
       {%- assign ep_url = ep.url | relative_url | replace: '/index.html','/' -%}
-
-      <li class="episode-nav-item{% if current == ep_url %} current{% endif %}">
-        {% if current == ep_url %}
-          <div class="episode-nav-number">{{ ep.n }}</div>
-          <div class="episode-nav-content">
-            <div class="episode-nav-title">{{ ep.title }}</div>
-            <div class="episode-nav-subtitle">{{ ep.subtitle }} (Current)</div>
-          </div>
-        {% else %}
-          <a href="{{ ep_url }}" style="display:flex; align-items:center; width:100%; text-decoration:none;">
-            <div class="episode-nav-number">{{ ep.n }}</div>
-            <div class="episode-nav-content">
-              <div class="episode-nav-title">{{ ep.title }}</div>
-              <div class="episode-nav-subtitle">{{ ep.subtitle }}</div>
-            </div>
-          </a>
-        {% endif %}
-      </li>
+      {%- if current == ep_url -%}
+        <span class="ep-nav-row current" aria-current="page">
+          <span class="ep-nav-num">{{ ep.n }}</span>
+          <span class="ep-nav-title">{{ ep.title }}</span>
+          <span class="ep-nav-theme">{{ ep.subtitle }} (Current)</span>
+        </span>
+      {%- else -%}
+        <a class="ep-nav-row" href="{{ ep_url }}">
+          <span class="ep-nav-num">{{ ep.n }}</span>
+          <span class="ep-nav-title">{{ ep.title }}</span>
+          <span class="ep-nav-theme">{{ ep.subtitle }}</span>
+        </a>
+      {%- endif -%}
     {%- endfor -%}
-  </ul>
+  </div>
 </div>

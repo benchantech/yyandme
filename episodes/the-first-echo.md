@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: The First Echo
 permalink: /episodes/the-first-echo/
 ---
@@ -19,21 +19,44 @@ permalink: /episodes/the-first-echo/
 This opening episode is both manifesto and experiment. Ben introduces the concept behind *YY and Me*, blending memoir, sound design, and emotional inquiry. You'll hear why he's shifting from viral YouTube violinist to sovereign audio creator — and how stuffed animals, language immersion, and vulnerability are central to the structure.
 
 This episode outlines four creative experiments:
-1. **Mnemonic memory cues** using violin plucks
-2. **Intimate storytelling** focused on identity, growth, and repair
-3. **Original music performance** as narrative language
-4. **Diegetic sponsorship**: ads fully integrated into the world of the story
+
+<div class="experiment-grid">
+  <div class="experiment-card">
+    <div class="exp-label">EXPERIMENT 1</div>
+    <div class="exp-title">Mnemonic memory cues</div>
+    <div class="exp-sub">using violin plucks</div>
+  </div>
+  <div class="experiment-card">
+    <div class="exp-label">EXPERIMENT 2</div>
+    <div class="exp-title">Intimate storytelling</div>
+    <div class="exp-sub">identity, growth, and repair</div>
+  </div>
+  <div class="experiment-card">
+    <div class="exp-label">EXPERIMENT 3</div>
+    <div class="exp-title">Original music performance</div>
+    <div class="exp-sub">as narrative language</div>
+  </div>
+  <div class="experiment-card">
+    <div class="exp-label">EXPERIMENT 4</div>
+    <div class="exp-title">Diegetic sponsorship</div>
+    <div class="exp-sub">ads fully integrated into the world of the story</div>
+  </div>
+</div>
 
 Whether you're a creator, a parent, or someone rebuilding your voice, this episode lays the foundation.
 
 **Keywords**: emotional storytelling, podcast structure experiments, digital legacy, identity through sound, learning in public, creator transition, violin podcast, narrative design
+{: .ep-keywords}
 
 🎧 **Listen above**, and please [leave your feedback](https://yyandme.benchantech.com/the-first-echo). Your voice is the signal I need most right now.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 <p>Welcome to YY and Me!</p>
 <p>This podcast is for adults looking to reconnect with their inner kid.</p>
 <p>For creators looking for a kindred spirit.</p>
@@ -55,3 +78,4 @@ Whether you're a creator, a parent, or someone rebuilding your voice, this episo
 <p>Please bookmark yyandme.benchantech.com (that's Y-Y-A-N-D-dot-M-E) and participate in polls and other activities.  With your permission, I will collect and use your feedback to improve my podcast and paid offerings over time.</p>
 <p>Oh, and remember to subscribe to this podcast, too!  Thanks for your support, everyone!</p>
 <p>This is YY and Me.  Let's begin.</p>
+</div>

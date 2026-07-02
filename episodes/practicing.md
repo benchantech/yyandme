@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: episode
 title: Practicing (Arc 1 | Episode 2)
 permalink: /episodes/practicing/
 ---
@@ -19,13 +19,17 @@ What if practice doesn't make perfect — just permanent?
 Ben explores how repetition can encode emotional rigidity and technical failure when done unconsciously. From violin drills to language learning and parenting feedback loops, this episode dives into the dangers of autopilot effort and the power of conscious unlearning.
 
 **Keywords**: unlearning habits, language acquisition, music practice psychology, deliberate learning, parenting and performance pressure, cognitive distortion from repetition
+{: .ep-keywords}
 
 🎧 **Start with [The First Echo](https://yyandme.benchantech.com/the-first-echo)** — then leave a trace. Your feedback shapes this podcast.
 
 {% include episode-navigation.html %}
 
-<hr />
-<p><strong>Full Transcript:</strong></p>
+<div class="section-rule transcript-rule">
+  <span class="label">FULL TRANSCRIPT</span>
+  <span class="line"></span>
+</div>
+<div class="transcript-paper">
 <p>YY and Me Episode 2: Practicing</p>
 <p>(Opening motif – plucked DA–DA, GD–GD, AE–AE–AE–AE. Fine-tuning the E string—slightly sharp, then settles.)</p>
 <p>(Ben, imitating mom's voice):</p>
@@ -171,3 +175,4 @@ Ben explores how repetition can encode emotional rigidity and technical failure 
 <p>(YY):</p>
 <p>"Uh oh."</p>
 <p>(Closing motif)</p>
+</div>

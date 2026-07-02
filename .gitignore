@@ -3,3 +3,11 @@
 main.tf
 terraform.tfstate
 terraform.tfstate.backup
+
+# Jekyll build
+_site/
+.jekyll-cache/
+Gemfile.lock
+
+# Vercel
+.vercel
