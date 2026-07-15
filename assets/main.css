@@ -665,12 +665,12 @@ img {
 .footer-inner {
   max-width: 896px;
   margin: 0 auto;
-  padding: 20px 48px;
+  padding: 24px 48px;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 12px;
   font-family: var(--font-mono);
   font-size: 11px;
   color: var(--cream-soft);
@@ -678,6 +678,14 @@ img {
 
 .footer-inner p {
   margin: 0;
+}
+
+.footer-about {
+  max-width: 620px;
+}
+
+.footer-title {
+  margin-bottom: 4px !important;
 }
 
 .footer-inner a {
@@ -693,8 +701,19 @@ img {
   font-size: 12.5px;
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  line-height: 1.45;
+}
+
 .legal-links {
-  flex-basis: 100%;
+  padding-top: 4px;
+}
+
+.footer-copyright {
+  color: var(--cream-dim);
 }
 
 .legal-page {
