@@ -60,7 +60,7 @@ All operations are consistent with IRS §183 guidelines and structured to suppor
 This system and its artifacts are **not public domain**.  
 You may study the structure, but repackaging, training reuse, or derivative kits must be licensed or explicitly granted. Attribution without consent does not imply permission.
 
-If you discover fingerprints (textual or structural) within your own system that match artifacts from this repo, contact me directly at **[your email or contact handle]** to verify lineage and intent.
+If you discover fingerprints (textual or structural) within your own system that match artifacts from this repo, contact me directly at **ben@benchantech.com** to verify lineage and intent.
 
 ---
 
@@ -71,5 +71,4 @@ It is a commercial structure for tone preservation, not a social podcast.
 Everything here exists to outlast algorithms, platforms, and attention cycles.
 
 If you’re here, you’re part of that long memory.
-
 

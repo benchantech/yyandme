@@ -5,9 +5,22 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  window.gtag = window.gtag || gtag;
   gtag('js', new Date());
-
-  gtag('config', 'G-5LBTKXJXDX');
+  gtag('consent', 'default', {
+    analytics_storage: 'denied',
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    wait_for_update: 500
+  });
+  gtag('set', 'ads_data_redaction', true);
+  gtag('config', 'G-5LBTKXJXDX', {
+    anonymize_ip: true,
+    send_page_view: true,
+    allow_google_signals: false,
+    allow_ad_personalization_signals: false
+  });
 </script>
 
 <!-- Enhanced SEO Meta Tags -->
@@ -36,7 +49,6 @@
 
 <!-- Person schema — canonical entity reference -->
 <script type="application/ld+json">
-<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": ["PodcastSeries", "CreativeWorkSeries"],
@@ -61,7 +73,6 @@
     "AI"
   ]
 }
-</script>
 </script>
 
 <!-- Structured Data for Podcast -->
