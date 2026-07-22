@@ -4,6 +4,16 @@ title: "The YY Method (Arc 2 | Episode 9)"
 permalink: /episodes/the-yy-method/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/6KCh1MOT1fRJ1PGN6cclVA?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 Outsource execution. Do not outsource judgment.
 
 Ben looks back at how the YY Method formed: two Ys, Why and Why Not, a Git-like commit shape, a family dance, and a symbol that keeps returning through his kids and creative work.
