@@ -70,6 +70,12 @@ layout: null
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>{{ site.url }}/episodes/the-yy-method/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>{{ site.url }}/about/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>

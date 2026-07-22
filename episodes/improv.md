@@ -4,6 +4,16 @@ title: "Improv (Arc 2 | Episode 8)"
 permalink: /episodes/improv/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/38y5PnLjszycNzFH2VOGC7?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 What comes out when nothing is planned?
 
 Ben records without a script and notices what changes when the polish is removed: the room, the time pressure, the car as a recording booth, and the sound of his own voice becoming easier to hear.

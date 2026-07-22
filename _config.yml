@@ -107,3 +107,9 @@ episodes:
     subtitle: "Voice & Unscripted Practice"
     description: "Ben tests what happens when the podcast is recorded without a draft, using improvisation to stay human while working with AI."
     arc: "Arc 2"
+  - n: 9
+    url: /episodes/the-yy-method/
+    title: "The YY Method"
+    subtitle: "Judgment & Resonance"
+    description: "Ben traces the YY Method from childhood imagination through AI-assisted structure, tuning-fork resonance, and the rule not to outsource judgment."
+    arc: "Arc 2"

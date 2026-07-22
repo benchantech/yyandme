@@ -36,13 +36,14 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Wed, 22 Jul 2026 07:44:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:16:30 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
     <item>
       <title>The First Echo</title>
       <itunes:title>The First Echo</itunes:title>
+      <itunes:episode>0</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">962068b0-2797-4375-abeb-da9d4228e477</guid>
       <link>https://yyandme.benchantech.com/episodes/the-first-echo</link>
@@ -158,7 +159,7 @@
 	    <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
 	    <p>A journal becomes a lifeline. Ben reflects on emotional memory, AI writing, and why practicing voice—on paper or in person—might matter more than perfecting it.</p>
     ]]></description>
-    <pubDate>Wed, 17 Jul 2025 08:00:00 -0400</pubDate>
+    <pubDate>Thu, 17 Jul 2025 08:00:00 -0400</pubDate>
     <author>Ben Chan</author>
     <enclosure url="https://archive.org/download/emotion-episode-4-arc-1_202507/emotion-episode-4-arc-1.mp3" length="14182593" type="audio/mpeg"/>
     <itunes:duration>511</itunes:duration>
@@ -271,6 +272,31 @@
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
       <itunes:keywords>improvisation, AI and voice, unscripted podcasting, creative process, human judgment, personal journal podcast, Arc 2</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 9 -->
+    <item>
+      <title>The YY Method (Episode 9 | Arc 2)</title>
+      <itunes:title>The YY Method</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ff4e6939-8eba-4c3e-9c4a-97cf75fef4b5</guid>
+      <link>https://yyandme.benchantech.com/episodes/the-yy-method</link>
+      <description><![CDATA[
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
+        <p>Ben traces the YY Method back to childhood imagination, family stories, two Ys held up like a symbol, and the discovery that Why and Why Not could flow into Commit like branches in Git.</p>
+        <p>Episode 9 turns that origin into a working principle for life with AI: outsource execution, but do not outsource judgment.</p>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 08:16:04 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://ia801806.us.archive.org/3/items/yyandme_ep9_the-yy-method/yyandme_ep9_the-yy-method.mp3" length="9877176" type="audio/mpeg"/>
+      <itunes:duration>431</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>The origin of the YY Method, from Why and Why Not to sympathetic resonance and the rule that AI should never replace judgment.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>YY Method, AI and judgment, Why and Why Not, sympathetic resonance, creative method, checks and balances, personal journal podcast, Arc 2</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
