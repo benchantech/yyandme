@@ -101,3 +101,9 @@ episodes:
     subtitle: "Return & Repetition"
     description: "After a year away, Ben returns with a clearer sense of voice, repetition, AI, and the work of steering the Author Ship himself."
     arc: "Arc 1"
+  - n: 8
+    url: /episodes/improv/
+    title: "Improv"
+    subtitle: "Voice & Unscripted Practice"
+    description: "Ben tests what happens when the podcast is recorded without a draft, using improvisation to stay human while working with AI."
+    arc: "Arc 2"

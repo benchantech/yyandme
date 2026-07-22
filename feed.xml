@@ -36,7 +36,7 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Wed, 22 Jul 2026 07:09:25 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:44:49 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
@@ -246,6 +246,31 @@
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
       <itunes:keywords>memory and repetition, AI and authorship, off the cuff podcasting, creative return, personal journal podcast, voice and judgment, music and AI</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 8 -->
+    <item>
+      <title>Improv (Episode 8 | Arc 2)</title>
+      <itunes:title>Improv</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">de02bf8b-2b84-4eb5-a7f0-90fded2e5501</guid>
+      <link>https://yyandme.benchantech.com/episodes/improv</link>
+      <description><![CDATA[
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
+        <p>Ben records without a draft and follows the thoughts that arrive: the car as a quieter studio, the limits of polish, the strange usefulness of hearing his own voice, and the pressure AI puts on human language.</p>
+        <p>Episode 8 opens Arc 2 by asking whether YY and Me can remain unscripted, imperfect, and recognizably human.</p>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 07:44:33 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://ia801007.us.archive.org/25/items/yyandme_ep8_improv/yyandme_ep8_improv.mp3" length="7389984" type="audio/mpeg"/>
+      <itunes:duration>314</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>An unscripted Arc 2 episode about recording without polish, listening to your own voice, and staying human around AI.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>improvisation, AI and voice, unscripted podcasting, creative process, human judgment, personal journal podcast, Arc 2</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
