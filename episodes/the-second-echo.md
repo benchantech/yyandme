@@ -4,6 +4,16 @@ title: "The Second Echo (Arc 1 | Episode 7)"
 permalink: /episodes/the-second-echo/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/3tOjNLUOfsDqlvpytGkfIw?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 The first echo has returned.
 
 After nearly a year away, Ben reflects on why the podcast went quiet, what the first arc taught him, and why the next one has to be spoken more directly.
