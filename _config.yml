@@ -95,3 +95,9 @@ episodes:
     subtitle: Practice & Improv
     description: "A diegetic escape story blending practice, improvisation, and human agency against automated control, revealing how constraint and collaboration spark true innovation."
     arc: "Arc 1"
+  - n: 7
+    url: /episodes/the-second-echo/
+    title: "The Second Echo"
+    subtitle: "Return & Repetition"
+    description: "After a year away, Ben returns with a clearer sense of voice, repetition, AI, and the work of steering the Author Ship himself."
+    arc: "Arc 1"

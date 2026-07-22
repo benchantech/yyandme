@@ -36,7 +36,7 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Tue, 15 Jul 2025 14:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:09:25 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
@@ -221,6 +221,31 @@
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
       <itunes:keywords>diegetic audio, creative constraints, teamwork, improvisation, memory and identity, personal journal podcast, slow podcast</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 7 -->
+    <item>
+      <title>The Second Echo (Episode 7 | Arc 1)</title>
+      <itunes:title>The Second Echo</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">2969b4c5-7647-4b0b-a740-5998643a56ea</guid>
+      <link>https://yyandme.benchantech.com/episodes/the-second-echo</link>
+      <description><![CDATA[
+        <p>🎧 Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
+        <p>After nearly a year away, Ben returns to YY and Me with the first echo finally bounced back: a clearer understanding of podcasting, repetition, AI scaffolding, and what only his own voice can do.</p>
+        <p>The second arc begins with a decision to plan, practice, then put the script away and steer the Author Ship out loud.</p>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 07:09:06 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://ia800706.us.archive.org/8/items/yyandme_ep7_the-second-echo/yyandme_ep7_the-second-echo.mp3" length="9183264" type="audio/mpeg"/>
+      <itunes:duration>396</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>A return episode about repetition, AI, authorship, and speaking the next arc without the scaffolding.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>memory and repetition, AI and authorship, off the cuff podcasting, creative return, personal journal podcast, voice and judgment, music and AI</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
