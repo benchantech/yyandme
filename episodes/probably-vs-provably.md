@@ -4,6 +4,16 @@ title: "Probably vs Provably (Arc 2 | Episode 10)"
 permalink: /episodes/probably-vs-provably/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/0lWUMAS7sdkhI3dkrOh2WL?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 AI makes probable answers feel provable, which makes the boundary between inference and evidence matter more.
 
 This episode traces the difference between observations we can preserve, explanations we can only infer, and decisions that require human judgment. It moves through software, music practice, AI applications, bounded experiments, and the YY Method principle to outsource execution without outsourcing judgment.
