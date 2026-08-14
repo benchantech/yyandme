@@ -36,7 +36,7 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Wed, 22 Jul 2026 08:16:30 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:44:41 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
@@ -297,6 +297,31 @@
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
       <itunes:keywords>YY Method, AI and judgment, Why and Why Not, sympathetic resonance, creative method, checks and balances, personal journal podcast, Arc 2</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 10 -->
+    <item>
+      <title>Probably vs Provably (Episode 10 | Arc 2)</title>
+      <itunes:title>Probably vs Provably</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d06bc07e-0b99-4304-97f3-10ad9a4a7eda</guid>
+      <link>https://yyandme.benchantech.com/episodes/probably-vs-provably</link>
+      <description><![CDATA[
+        <p>Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
+        <p>AI can generate probable explanations quickly and persuasively, but fluent probability is not the same as proof. This episode looks at the engineering and human consequences of confusing the two.</p>
+        <p>Ben reflects on deterministic systems, music analysis, bounded experiments, correction, metrics, and the YY Method principle to outsource execution without outsourcing judgment.</p>
+      ]]></description>
+      <pubDate>Fri, 14 Aug 2026 12:40:19 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://archive.org/download/yyandme_ep10_probably-vs-provably/yyandme_ep10_probably-vs-provably.mp3" length="10472976" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>A reflection on probability, proof, AI systems, music practice, and the judgment needed to decide what should govern.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>AI judgment, probabilistic systems, deterministic software, evidence and inference, bounded experiments, YY Method</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
