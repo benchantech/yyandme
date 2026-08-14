@@ -36,7 +36,7 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Fri, 14 Aug 2026 12:44:41 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:18:37 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
@@ -310,18 +310,18 @@
       <link>https://yyandme.benchantech.com/episodes/probably-vs-provably</link>
       <description><![CDATA[
         <p>Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
-        <p>AI can generate probable explanations quickly and persuasively, but fluent probability is not the same as proof. This episode looks at the engineering and human consequences of confusing the two.</p>
-        <p>Ben reflects on deterministic systems, music analysis, bounded experiments, correction, metrics, and the YY Method principle to outsource execution without outsourcing judgment.</p>
+        <p>Ben looks back at making an RPG in Visual Basic with his brother, where every sprite, treasure chest, battle, and variable had to be explicitly defined.</p>
+        <p>That memory becomes a lens for building with AI: systems that can understand intent, generate possibilities, and still fail in ways that require testing, repair, and human judgment.</p>
       ]]></description>
       <pubDate>Fri, 14 Aug 2026 12:40:19 -0400</pubDate>
       <author>Ben Chan</author>
       <enclosure url="https://archive.org/download/yyandme_ep10_probably-vs-provably/yyandme_ep10_probably-vs-provably.mp3" length="10472976" type="audio/mpeg"/>
       <itunes:duration>476</itunes:duration>
       <itunes:summary><![CDATA[
-        <p>A reflection on probability, proof, AI systems, music practice, and the judgment needed to decide what should govern.</p>
+        <p>A reflection on old-school game programming, AI systems that are usually right, and the judgment needed when software no longer simply obeys.</p>
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
-      <itunes:keywords>AI judgment, probabilistic systems, deterministic software, evidence and inference, bounded experiments, YY Method</itunes:keywords>
+      <itunes:keywords>AI software, probabilistic systems, game design, software repair, human judgment, YY Method</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 

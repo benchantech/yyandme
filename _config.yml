@@ -116,6 +116,6 @@ episodes:
   - n: 10
     url: /episodes/probably-vs-provably/
     title: "Probably vs Provably"
-    subtitle: "Probability, proof, and judgment"
-    description: "A reflection on where AI should infer, where software should prove, and why judgment still has to govern."
+    subtitle: "AI, games, and repair"
+    description: "Ben traces the shift from deterministic programming to AI systems that are usually right, and asks what judgment means when software stops simply obeying."
     arc: "Arc 2"
