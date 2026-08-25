@@ -18,6 +18,8 @@ What if practice doesn't make perfect — just permanent?
 
 Ben explores how repetition can encode emotional rigidity and technical failure when done unconsciously. From violin drills to language learning and parenting feedback loops, this episode dives into the dangers of autopilot effort and the power of conscious unlearning.
 
+For parents applying this around a child's violin practice, see BenChanViolin's guide to [supporting practice without becoming the teacher](https://benchanviolin.com/parents/how-should-a-parent-support-violin-practice-without-becoming-the-teacher).
+
 **Keywords**: unlearning habits, language acquisition, music practice psychology, deliberate learning, parenting and performance pressure, cognitive distortion from repetition
 {: .ep-keywords}
 

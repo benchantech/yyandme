@@ -41,6 +41,9 @@ permalink: /about/
   <p>
     <em>YY and Me</em> sits inside a larger project: building frameworks that carry emotional weight across generations. That work is formalized as the <a href="https://yymethod.com" target="_blank" rel="noopener">YY Method</a> — the method that grew from this. It operates through <a href="https://benchantech.com" target="_blank" rel="noopener">Ben Chan Tech LLC</a>.
   </p>
+  <p>
+    One applied branch of that work is <a href="https://benchanviolin.com/parents" target="_blank" rel="noopener">BenChanViolin's parent guide to violin, AI, and between-lesson judgment</a>: using AI to see options while keeping the current teacher's authority intact.
+  </p>
 
   <div class="section-rule">
     <span class="label">THE INVITATION</span>
