@@ -4,6 +4,16 @@ title: "Marketing (Arc 2 | Episode 11)"
 permalink: /episodes/marketing/
 ---
 
+<iframe
+  data-testid="embed-iframe"
+  class="responsive-iframe"
+  src="https://open.spotify.com/embed/episode/0Sd34SBMegEtieRD3lHqoV?utm_source=generator"
+  frameborder="0"
+  allowfullscreen
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+
 Studio approval arrives just before recording, turning one fear into another: now the marketing has to begin.
 
 Ben reflects on the difference between being hired for skills someone already values and selling something he created because he believes it matters. The episode moves through YouTube Symphony memories, early freelancing, family testing, app approval, and the obligation that starts when people decide to pay.
