@@ -119,3 +119,9 @@ episodes:
     subtitle: "AI, games, and repair"
     description: "Ben traces the shift from deterministic programming to AI systems that are usually right, and asks what judgment means when software stops simply obeying."
     arc: "Arc 2"
+  - n: 11
+    url: /episodes/marketing/
+    title: "Marketing"
+    subtitle: "Approval & Exposure"
+    description: "Ben moves from waiting for app approval into the harder work of asking whether something he values is worth buying."
+    arc: "Arc 2"

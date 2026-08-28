@@ -36,7 +36,7 @@
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
-    <lastBuildDate>Fri, 14 Aug 2026 14:18:37 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:22:51 -0400</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 06:21:46 -0400</pubDate>
 
     <!-- EPISODE 0: The First Echo -->
@@ -322,6 +322,31 @@
       ]]></itunes:summary>
       <itunes:author>Ben Chan</itunes:author>
       <itunes:keywords>AI software, probabilistic systems, game design, software repair, human judgment, YY Method</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 11 -->
+    <item>
+      <title>Marketing (Episode 11 | Arc 2)</title>
+      <itunes:title>Marketing</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">621cb2d2-8e7e-48fc-87a3-f47bc71a354a</guid>
+      <link>https://yyandme.benchantech.com/episodes/marketing</link>
+      <description><![CDATA[
+        <p>Start with The First Echo and leave a trace at yyandme.benchantech.com/the-first-echo.</p>
+        <p>Ben records just after Studio approves all three apps, which removes the waiting and leaves the scarier question: how to market something he created because he believes it has value.</p>
+        <p>A reflection on app launches, YouTube auditions, freelancing, family participation, and the YY Method as a way to move from fear into commitment.</p>
+      ]]></description>
+      <pubDate>Thu, 27 Aug 2026 21:22:29 -0400</pubDate>
+      <author>Ben Chan</author>
+      <enclosure url="https://ia600800.us.archive.org/31/items/yyandme_ep11/yyandme_ep11.mp3" length="9525456" type="audio/mpeg"/>
+      <itunes:duration>435</itunes:duration>
+      <itunes:summary><![CDATA[
+        <p>A reflection on app approval, marketing fear, creative exposure, and committing when the door finally opens.</p>
+      ]]></itunes:summary>
+      <itunes:author>Ben Chan</itunes:author>
+      <itunes:keywords>marketing, app launch, creative risk, AI products, family and work, YY Method, human judgment</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
     </item>
 
