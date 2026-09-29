@@ -14,8 +14,22 @@ permalink: /episodes/
 
 <div class="wrap-800 canon-section">
   {%- assign sorted = site.episodes | sort: "n" | reverse -%}
+  {%- assign arc2 = sorted | where: "arc", "Arc 2" -%}
   {%- assign arc1 = sorted | where: "arc", "Arc 1" -%}
   {%- assign foundation = sorted | where: "arc", "Foundation" -%}
+
+  <div class="arc-group">
+    <div class="section-rule">
+      <span class="mono-label">ARC 2</span>
+      <span class="line"></span>
+      <span class="mono-note">{{ arc2 | size }} echoes</span>
+    </div>
+    <div class="episode-list">
+      {%- for ep in arc2 -%}
+        {%- include episode-row.html ep=ep -%}
+      {%- endfor -%}
+    </div>
+  </div>
 
   <div class="arc-group">
     <div class="section-rule">
